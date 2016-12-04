@@ -4,19 +4,25 @@ See https://en.wikipedia.org/wiki/OpenSource_Maturity_Model
 
 The Open Source Maturity Model (OMM) is a methodology for assessing Free/Libre Open Source Software (FLOSS) and more specifically the FLOSS development process.
 
-OMM may help in building trust in the development process of companies using or producing FLOSS.
+## OMM objectives
 
-OMM objectives:
+OMM objectives are:
 
 1. To provide FLOSS communities a basis for developing products efficiently and making their products trustworthy for the potential customers, and also for integrating companies.
 
 * To provide FLOSS integrators a basis for evaluating the processes used by the FLOSS communities.
+
+
+## OMM is a model and methodology
 
 OMM is interchangeably referred to as model and methodology.
 
 1. It is first a model that contains all elements that have to be assessed.
 
 2. It is also a set of rules and guidelines describing how to conduct the assessment process.
+
+
+## OMM levels
 
 OMM is organized in levels, each level is building on and including the trustworthy elements (TWE) at the lower level:
 
