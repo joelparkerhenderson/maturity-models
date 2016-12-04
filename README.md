@@ -11,13 +11,19 @@ See https://en.wikipedia.org/wiki/Maturity_model
 
 <h2><a name="maturity-model-levels">Maturity model levels</a></h2>
 
-Maturity models typical have sequential levels.
+A maturity model typical has sequential levels.
 
-For example, many popular maturity models have levels that are ranked 0-5, and often with these kinds of general characteristics:
+For example, a maturity model can have levels 1-3, generally corresponding to these meanings:
+
+1. Basic
+2. Intermediate
+3. Advanced
+
+For example, a maturity model can have levels 0-5, generally corresponding to these meanings:
 
 0. None, Never, Novice
 1. Informal, Implicit, Individual Usage
-2. Developing, Describing, Department Usage
+2. Developing, Describing, Departmental Usage
 3. Defining, Detailing, Distributed Usage
 4. Managing, Measuring, Majority Usage
 5. Ongoing, Optimizing, Organization Usage
@@ -29,7 +35,8 @@ We welcome examples of maturity models. If you know of a maturity model, please 
 
 Example:
 
-* [Enterprise Architecture: TOGAF Maturity Models](enterprise_architecture/togaf_maturity_models.md)
+* [OpenSource Maturity Model](software/open_source/opensource_maturity_model.md)
+* [Enterprise Architecture: TOGAF Maturity Model](software/enterprise_architecture/togaf_maturity_model.md)
 
 
 <h2><a name="top-down-vs-bottom-up">Top-down vs. bottom-up</a></h2>

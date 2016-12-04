@@ -1,4 +1,4 @@
-# Enterprise Architecture: TOGAF Maturity Models
+# Enterprise Architecture: TOGAF Maturity Model
 
 Credit: http://www.opengroup.org/architecture/0310wash/presents/Judith_Jones-Maturity_Models.pdf
 
