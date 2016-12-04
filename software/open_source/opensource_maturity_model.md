@@ -10,7 +10,7 @@ OMM objectives are:
 
 1. To provide FLOSS communities a basis for developing products efficiently and making their products trustworthy for the potential customers, and also for integrating companies.
 
-* To provide FLOSS integrators a basis for evaluating the processes used by the FLOSS communities.
+2. To provide FLOSS integrators a basis for evaluating the processes used by the FLOSS communities.
 
 
 ## OMM is a model and methodology
@@ -26,9 +26,9 @@ OMM is interchangeably referred to as model and methodology.
 
 OMM is organized in levels, each level is building on and including the trustworthy elements (TWE) at the lower level:
 
-1. Basic level: achieved by adopting a few necessary practices in the FLOSS development process
-2. Intermediate level: achieved by fulfilling all trustworthy elements from the basic level and required trustworthy elements from the intermediate level.
-3. Advanced level: achieved by fulfilling all trustworthy elements from basic and intermediate levels and required trustworthy elements from the advanced level.
+1. Basic level
+2. Intermediate level
+3. Advanced level
 
 
 ## 1. Basic level
