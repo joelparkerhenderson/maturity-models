@@ -1,11 +1,13 @@
 # Maturity Models
 
+<img src="README.png" alt="Maturity Models" style="width: 100%;"/>
+
 A maturity model is a business tool used to assess people/culture, processes/structures, and objects/technology.
 
 See https://en.wikipedia.org/wiki/Maturity_model
 
-* [Introduction](#introduction)
 * [Maturity model levels](#maturity-model-levels)
+* [Maturity model examples](#maturity-model-examples)
 * [Top-down vs. bottom-up](#top-down-vs-bottom-up)
 
 
