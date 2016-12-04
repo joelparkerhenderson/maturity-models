@@ -3,15 +3,15 @@
 Credit: http://www.opengroup.org/architecture/0310wash/presents/Judith_Jones-Maturity_Models.pdf
 
 
-## Level O = None
+## Level O: None
 
 No Enterprise Architecture in place.
 
 1. No recognition for the need for Enterprise Architecture. Success depends on individual efforts.
 2. Enterprise Architecture Development methods ignored.
-3. Business requirements specific to a problem. 
+3. Business requirements specific to a problem.
 4. Stakeholders limited to users of the solution.
-5. Product focussed. 
+5. Product focussed.
 6. Specifications delivered after the solution.
 7. Governance seen as bureaucracy.
 8. Architecture projects considered to be time-wasting – lets get down to that code!
@@ -27,7 +27,7 @@ Informal Enterprise Architecture Process Underway.
 2. Enterprise Architecture processes, documentation and standards are established by a variety of ad hoc means and are localized or informal.
 3. Minimal, or implicit linkage to business strategies or business drivers.
 4. Limited management team awareness or involvement in the architecture process.
-5. Non-existent. Enterprise Architectures under development 
+5. Non-existent. Enterprise Architectures under development
 6. The latest version of the Enterprise Architecture documentation is on the Web. Little communication exists about the Enterprise Architecture process and possible process improvements.
 7. No explicit governance of architectural standards.
 8. No Enterprise Architecture projects.
