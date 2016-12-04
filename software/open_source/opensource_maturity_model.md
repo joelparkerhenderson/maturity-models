@@ -2,24 +2,30 @@
 
 See https://en.wikipedia.org/wiki/OpenSource_Maturity_Model
 
-The Open Source Maturity Model (OMM) is a methodology for assessing Free/Libre Open Source Software (FLOSS) and more specifically the FLOSS development process. This methodology is released under the Creative Commons license.
+The Open Source Maturity Model (OMM) is a methodology for assessing Free/Libre Open Source Software (FLOSS) and more specifically the FLOSS development process.
 
-OMM may help in building trust in the development process of companies using or producing FLOSS. The aim of the methodology is to enable any enterprise or organization to use FLOSS software in production and, in p articular, in their mainstream products and not only in prototypes.[1][2]
+OMM may help in building trust in the development process of companies using or producing FLOSS.
 
-OMM objectives are to provide FLOSS communities a basis for developing products efficiently and making their products trustworthy for the potential customers, and also for integrating companies and to provide FLOSS integrators a basis for evaluating the processes used by the FLOSS communities.
+OMM objectives:
 
-OMM is interchangeably referred to as model and methodology. It is first a model that contains all elements that have to be assessed, but it is also a set of rules and guidelines describing how to conduct the assessment process.
+1. To provide FLOSS communities a basis for developing products efficiently and making their products trustworthy for the potential customers, and also for integrating companies.
 
-OMM is organized in levels, each level is building on and including the trustworthy elements (TWE) at the lower level. The trustworthy elements included in OMM were collected or inspired by two sources:
+* To provide FLOSS integrators a basis for evaluating the processes used by the FLOSS communities.
 
-Three maturity levels available in OMM are:
+OMM is interchangeably referred to as model and methodology.
+
+1. It is first a model that contains all elements that have to be assessed.
+
+2. It is also a set of rules and guidelines describing how to conduct the assessment process.
+
+OMM is organized in levels, each level is building on and including the trustworthy elements (TWE) at the lower level:
 
 1. Basic level: achieved by adopting a few necessary practices in the FLOSS development process
 2. Intermediate level: achieved by fulfilling all trustworthy elements from the basic level and required trustworthy elements from the intermediate level.
 3. Advanced level: achieved by fulfilling all trustworthy elements from basic and intermediate levels and required trustworthy elements from the advanced level.
 
 
-## Basic level
+## 1. Basic level
 
 Basic level elements:
 
@@ -36,7 +42,7 @@ Basic level elements:
 * RDMP1: Availability and Use of a (product) roadmap
 
 
-## Intermediate level
+## 2. Intermediate level
 
 Intermediate level elements:
 
@@ -49,7 +55,7 @@ Intermediate level elements:
 * PPQA: Process and Product Quality Assurance
 
 
-## Advanced level
+## 3. Advanced level
 
 Advanced level elements:
 
