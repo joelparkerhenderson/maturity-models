@@ -197,41 +197,41 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 
 <th>Initial</th>
 
-<td>
+<td style="vertical-align:top">
 <p>Development teams work in isolation, and use the tools, middleware, and components they deem most appropriate to deliver the work.</td>
 </td>
 
-<td>
+<td style="vertical-align:top">
 <p>Poor teamwork, ad-hoc communication & coordination.</p>
 <p>No knowledge pool.</p>
 <p>Little sharing.</p>
 <p>Success achieved primarily through heroic individual efforts.</p>
 </td>
 
-<td>
+<td style="vertical-align:top">
 <p>Manual and reactive processes.</p>
 <p>Little management of artifacts, documentation, and source code.</p>
 <p>Uncontrolled.</p>
 </td>
 
-<td>
+<td style="vertical-align:top">
 <p>Software is deployed manually, using environment-specific binaries.</p>
 <p>Environment is provisioned manually.</p>
 </td>
 
-<td>
+<td style="vertical-align:top">
 <p>Infrequent and unreliable releases.</p>
 <p>Manual application lifecycle.</p>
 <p>Software quality turns out to be variable.</p>
 </td>
 
-<td>
+<td style="vertical-align:top">
 <p>Manual testing.</p>
 <p>No test scripts.</p>
 <p>Typically done after development.</p>
 </td>
 
-<td>
+<td style="vertical-align:top">
 <p>Data migrations are performed manually.</p>
 <p>Integration is ad-hoc and often point-to-point.</p>
 </td>
