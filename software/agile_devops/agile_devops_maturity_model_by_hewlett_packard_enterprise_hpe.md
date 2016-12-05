@@ -21,38 +21,52 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 <th>Optimized</th>
 
 <td>
-* Lean and agile are part of the organizational culture.
-* Continuous learning and optimization of the work processess.
+<ul>
+<li>Lean and agile are part of the organizational culture.</li>
+<li>Continuous learning and optimization of the work processess.</li>
+</ul>
 </td>
 
 <td>
-* Effective knowledge sharing.
-* Individual empowerment.
+<ul>
+<li>Effective knowledge sharing.</li>
+<li>Individual empowerment.</li>
+</ul>
 </td>
 
 <td>
-* Teams regularly meet to discuss integration problems.
-* Teams resolve problems with automation, fast feedback, and better visibility.
+<ul>
+<li>Teams regularly meet to discuss integration problems.</li>
+<li>Teams resolve problems with automation, fast feedback, and better visibility.</li>
+</ul>
 </td>
 
 <td>
-* Environments are managed effectively.
-* Provisioning is fully automated.
-* Standard topologies are available for common components.
+<ul>
+<li>Environments are managed effectively.</li>
+<li>Provisioning is fully automated.</li>
+<li>Standard topologies are available for common components.</li>
+</ul>
 </td>
 
 <td>
-* Full portfolio and lifecycle management are in place, and integrate user requirements, development, testing, staging, and production.
+<ul>
+<li>Full portfolio and lifecycle management are in place, and integrate user requirements, development, testing, staging, and production.</li>
+</ul>
 </td>
 
 <td>
-* Testing is fully automated.
-* Production rollbacks are rare.
-* Defects are found and fixed immediately.
+<ul>
+<li>Testing is fully automated.</li>
+<li>Production rollbacks are rare.</li>
+<li>Defects are found and fixed immediately.</li>
+</ul>
 </td>
 
 <td>
-* Release-to-release feedback loop of database and ingration performance and deployment processes.
+<ul>
+<li>Release-to-release feedback loop of database and ingration performance and deployment processes.</li>
+</ul>
 </td>
 
 </tr>
@@ -62,43 +76,57 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 <th>Measured</th>
 
 <td>
-* Communities of practice support agile habits and high maturity across the organization.
-* Measurement systems are in place to keep track of business value delivered.
-* Inefficiencies are identified and acted upon.
+<ul>
+<li>Communities of practice support agile habits and high maturity across the organization.</li>
+<li>Measurement systems are in place to keep track of business value delivered.</li>
+<li>Inefficiencies are identified and acted upon.</li>
+</ul>
 </td>
 
 <td>
-* Integrations among development teams, testing teams, and operations teams are implemented, even among teams in multiple countries.
-* Success is celebrated.
-* People are fully respected and recognized for their contributions.
+<ul>
+<li>Integrations among development teams, testing teams, and operations teams are implemented, even among teams in multiple countries.</li>
+<li>Success is celebrated.</li>
+<li>People are fully respected and recognized for their contributions.</li>
+</ul>
 </td>
 
 <td>
-* Build metrics are gathered, made visible, and acted upon.
-* Lessons are learned.
-* Continuous improvement is in place.
+<ul>
+<li>Build metrics are gathered, made visible, and acted upon.</li>
+<li>Lessons are learned.</li>
+<li>Continuous improvement is in place.</li>
+</ul>
 </td>
 
 <td>
-* Deployments are orchestrated and managed.
-* Release processes are tested.
-* Rollback processes are tested.
+<ul>
+<li>Deployments are orchestrated and managed.</li>
+<li>Release processes are tested.</li>
+<li>Rollback processes are tested.</li>
+</ul>
 </td>
 
 <td>
-* Environmental health and application health are monitored and proactively managed.
-* Cycle times are monitored.
+<ul>
+<li>Environmental health and application health are monitored and proactively managed.</li>
+<li>Cycle times are monitored.</li>
+</ul>
 </td>
 
 <td>
-* Quality metrics and trends are tracked.
-* Non-functional requirements are defined and measured.
+<ul>
+<li>Quality metrics and trends are tracked.</li>
+<li>Non-functional requirements are defined and measured.</li>
+</ul>
 </td>
 
 <td>
-* Database upgrades and rollbacks are tested with every deployment.
-* Database performance is monitored and optimized.
-* Integration is performed by using message queues, enabling scale-up and scale-down.
+<ul>
+<li>Database upgrades and rollbacks are tested with every deployment.</li>
+<li>Database performance is monitored and optimized.</li>
+<li>Integration is performed by using message queues, enabling scale-up and scale-down.</li>
+</ul>
 </td>
 
 </tr>
@@ -108,42 +136,56 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 <th>Defined</th>
 
 <td>
-* Disciplined agile delivery processes and practices are implemented.
-* Continuous improvement is in place.
-* Appropriate governance is in place.
+<ul>
+<li>Disciplined agile delivery processes and practices are implemented.</li>
+<li>Continuous improvement is in place.</li>
+<li>Appropriate governance is in place.</li>
+</ul>
 </td>
 
 <td>
-* Co-located development, testing, and operations teams are starting to work together towards a common goal.
-* Communications and feedback loops are initated across the whole supply chain.
+<ul>
+<li>Co-located development, testing, and operations teams are starting to work together towards a common goal.</li>
+<li>Communications and feedback loops are initated across the whole supply chain.</li>
+</ul>
 </td>
 
 <td>
-* Every time a source code change is committed, an automated build and test cycle is performed.
-* Dependencies are managed.
-* Scripts and tools are re-usable.
+<ul>
+<li>Every time a source code change is committed, an automated build and test cycle is performed.</li>
+<li>Dependencies are managed.</li>
+<li>Scripts and tools are re-usable.</li>
+</ul>
 </td>
 
 <td>
-* Software is deployed using a fully-automated, self-service process.
-* Same deployment process is used for every environment.
+<ul>
+<li>Software is deployed using a fully-automated, self-service process.</li>
+<li>Same deployment process is used for every environment.</li>
+</ul>
 </td>
 
 <td>
-* Lean portforlio management.
-* Change management and approval processes are in place and enforced.
+<ul>
+<li>Lean portforlio management.</li>
+<li>Change management and approval processes are in place and enforced.</li>
+</ul>
 </td>
 
 <td>
-* Automated unit tests.
-* Automated acceptance tests.
-* Testing is part of the devleopment process.
-* Feedback loops are in place.
-* Continuous improvement is measured and managed.
+<ul>
+<li>Automated unit tests.</li>
+<li>Automated acceptance tests.</li>
+<li>Testing is part of the devleopment process.</li>
+<li>Feedback loops are in place.</li>
+<li>Continuous improvement is measured and managed.</li>
+</ul>
 </td>
 
 <td>
-* Databases and integrations are included in the deployment process.
+<ul>
+<li>Databases and integrations are included in the deployment process.</li>
+</ul>
 </td>
 
 </tr>
@@ -153,42 +195,56 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 <th>Managed</th>
 
 <td>
-* The organization is starting to embrace agile habits within development.
-* Operations is still seen as separate.
-* Consistency across teams is variable.
+<ul>
+<li>The organization is starting to embrace agile habits within development.</li>
+<li>Operations is still seen as separate.</li>
+<li>Consistency across teams is variable.</li>
+</ul>
 </td>
 
 <td>
-* Some knowledge sharing activities get under way.
-* Teams are starting to communication within development.
-* Standard work practices are defined and mostly followed.
+<ul>
+<li>Some knowledge sharing activities get under way.</li>
+<li>Teams are starting to communication within development.</li>
+<li>Standard work practices are defined and mostly followed.</li>
+</ul>
 </td>
 
 <td>
-* Automation is implemented in the build phase and test phase, but is still siloed.
-* No central infrastructre in place.
+<ul>
+<li>Automation is implemented in the build phase and test phase, but is still siloed.</li>
+<li>No central infrastructre in place.</li>
+</ul>
 </td>
 
 <td>
-* Deployment is partially automated to some environments.
-* Some environments can be provisioned automatically.
-* Some middleware and database components are provided centrally.
+<ul>
+<li>Deployment is partially automated to some environments.</li>
+<li>Some environments can be provisioned automatically.</li>
+<li>Some middleware and database components are provided centrally.</li>
+</ul>
 </td>
 
 <td>
-* Lifecycle management is painful and infrequent but releases are reliable.
-* There is limited traceability from requirement to release.
-* Quality is improving.
+<ul>
+<li>Lifecycle management is painful and infrequent but releases are reliable.</li>
+<li>There is limited traceability from requirement to release.</li>
+<li>Quality is improving.</li>
+</ul>
 </td>
 
 <td>
-* Test scripts and test data are generated as part of the development process.
-* Test scripst and test data are used for automating some tests.
+<ul>
+<li>Test scripts and test data are generated as part of the development process.</li>
+<li>Test scripst and test data are used for automating some tests.</li>
+</ul>
 </td>
 
 <td>
-* Database changes are done through the use of automated scripts with versions associated to applications.
-* An Enterprise Application Integration bus is implemented to facilitate integration.
+<ul>
+<li>Database changes are done through the use of automated scripts with versions associated to applications.</li>
+<li>An Enterprise Application Integration bus is implemented to facilitate integration.</li>
+</ul>
 </td>
 
 </tr>
@@ -198,42 +254,57 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 <th>Initial</th>
 
 <td>
-* Development teams work in isolation, and use the tools, middleware, and components they deem most appropriate to deliver the work.</td>
+<ul>
+<li>Development teams work in isolation, and use the tools, middleware, and components they deem most appropriate to deliver the work.</ul>
+</td>
+</ul>
 </td>
 
 <td>
-* Poor teamwork, ad-hoc communication & coordination.
-* No knowledge pool.
-* Little sharing.
-* Success achieved primarily through heroic individual efforts.
+<ul>
+<li>Poor teamwork, ad-hoc communication & coordination.</li>
+<li>No knowledge pool.</li>
+<li>Little sharing.</li>
+<li>Success achieved primarily through heroic individual efforts.</li>
+</ul>
 </td>
 
 <td>
-* Manual and reactive processes.
-* Little management of artifacts, documentation, and source code.
-* Uncontrolled.
+<ul>
+<li>Manual and reactive processes.</li>
+<li>Little management of artifacts, documentation, and source code.</li>
+<li>Uncontrolled.</li>
+</ul>
 </td>
 
 <td>
-* Software is deployed manually, using environment-specific binaries.
-* Environment is provisioned manually.
+<ul>
+<li>Software is deployed manually, using environment-specific binaries.</li>
+<li>Environment is provisioned manually.</li>
+</ul>
 </td>
 
 <td>
-* Infrequent and unreliable releases.
-* Manual application lifecycle.
-* Software quality turns out to be variable.
+<ul>
+<li>Infrequent and unreliable releases.</li>
+<li>Manual application lifecycle.</li>
+<li>Software quality turns out to be variable.</li>
+</ul>
 </td>
 
 <td>
-* Manual testing.
-* No test scripts.
-* Typically done after development.
+<ul>
+<li>Manual testing.</li>
+<li>No test scripts.</li>
+<li>Typically done after development.</li>
+</ul>
 </td>
 
 <td>
-* Data migrations are performed manually.
-* Integration is ad-hoc and often point-to-point.
+<ul>
+<li>Data migrations are performed manually.</li>
+<li>Integration is ad-hoc and often point-to-point.</li>
+</ul>
 </td>
 
 </tr>
