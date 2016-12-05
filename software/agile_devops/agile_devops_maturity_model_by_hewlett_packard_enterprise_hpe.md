@@ -5,7 +5,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 
 <table>
 
-<tr>
+<tr style="vertical-align:top">
 <th></th>
 <th>Organization</th>
 <th>Teamwork</th>
@@ -16,7 +16,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 <th>Data & Integration Management</th>
 </tr>
 
-<tr>
+<tr style="vertical-align:top">
 
 <th>Optimized</th>
 
@@ -57,7 +57,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 
 </tr>
 
-<tr>
+<tr style="vertical-align:top">
 
 <th>Measured</th>
 
@@ -103,7 +103,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 
 </tr>
 
-<tr>
+<tr style="vertical-align:top">
 
 <th>Defined</th>
 
@@ -148,7 +148,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 
 </tr>
 
-<tr>
+<tr style="vertical-align:top">
 
 <th>Managed</th>
 
@@ -193,7 +193,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 
 </tr>
 
-<tr>
+<tr style="vertical-align:top">
 
 <th>Initial</th>
 
