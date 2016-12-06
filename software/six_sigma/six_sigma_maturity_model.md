@@ -25,7 +25,7 @@ The five levels:
 
   <ul>
   <li>The early success has led to other parts of the organization buying in to Six Sigma and a broader launch of projects is under way.</li>
-  <li>Key challenge: Ensure that the methodology is consistently applied in other parts of the company, and to ensure that financial impact and results are replicated.</ul>
+  <li>Key challenge: Ensure that the methodology is consistently applied in other parts of the company, and to ensure that financial impact and results are replicated.</li>
   </ul>
 
 <li>Level 4: Institutionalization. 24-48+ months.
@@ -50,15 +50,15 @@ The five levels:
 
 <th></th>
 
-<th>Level 1: Launch</th>
+<th>Level 1:<br>Launch</th>
 
-<th>Level 2: Early Success</th>
+<th>Level 2:<br>Early Success</th>
 
-<th>Level 3: Scale/Replication</th>
+<th>Level 3:<br>Scale/Replication</th>
 
-<th>Level 4: Institutionalization</th>
+<th>Level 4:<br>Institutionalization</th>
 
-<th>Level 5: Culture Transformation</th>
+<th>Level 5:<br>Culture Transformation</th>
 
 </tr>
 
