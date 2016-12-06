@@ -4,22 +4,45 @@ See https://www.isixsigma.com/implementation/basics/maturity-model-describes-sta
 
 The five levels:
 
-* 1. Launch – This is the starting point – wherein an initial few visionaries in the organization launch Six Sigma, training is initiated and projects are begun.
+<ul>
 
-* 2. Early Success – The initial projects are yielding results and early successes are being achieved.
-
-* 3. Scale and Replication – The early success has led to other parts of the organization buying in to Six Sigma and a broader launch of projects is under way.
-
-* 4. Institutionalization – Throughout many parts of the company, projects are yielding broad-based financial impact.
-
-* 5. Culture Transformation – Six Sigma is part of the organizational DNA, financial impact is sustained and the Six Sigma culture is pervasive – even beyond the Six Sigma practitioners and beyond the company boundaries.
+<li>Level 1: Launch. 3-9 months.
 
 
-<style>
-tr,td {
-  vertical-align:top !important;
-}
-</style>
+  <ul>
+  <li>This is the starting point – wherein an initial few visionaries in the organization launch Six Sigma, training is initiated and projects are begun.</li>
+  <li>Key challenge: Ensure that the initial team executing the Six Sigma effort has the necessary support in the organization, and to ensure proper project selection in order to drive successes at the next level.</li>
+  </ul>
+
+<li>Level 2: Early Success. 6-18 months.
+
+  <ul>
+  <li>The initial projects are yielding results and early successes are being achieved.</li>
+  <li>Key challenge: Ensure that projects are completed in a reasonable time and that they have meaningful financial impact on the business.</li>
+  </ul>
+
+<li>Level 3: Scale and Replication. 12-36 months.
+
+  <ul>
+  <li>The early success has led to other parts of the organization buying in to Six Sigma and a broader launch of projects is under way.</li>
+  <li>Key challenge: Ensure that the methodology is consistently applied in other parts of the company, and to ensure that financial impact and results are replicated.</ul>
+  </ul>
+
+<li>Level 4: Institutionalization. 24-48+ months.
+
+  <ul>
+  <li>Throughout many parts of the company, projects are yielding broad-based financial impact.</li>
+  <li>Key challenge: Set up consistent processes for Six Sigma execution, while allowing for controlled variation in different parts of the company.</li>
+  </ul>
+
+<li>Level 5: Culture Transformation. 48+ months.
+
+  <ul>
+  <li>Six Sigma is part of the organizational DNA, financial impact is sustained and the Six Sigma culture is pervasive – even beyond the Six Sigma practitioners and beyond the company boundaries.</li>
+  <li>Key challenge: Keep Six Sigma fresh, and innovate in the new areas where it can be applied as the company inevitably goes through natural business cycles of growth, threat, acquisitions, etc.</li>
+  </ul>
+
+</ul>
 
 <table>
 
@@ -27,37 +50,15 @@ tr,td {
 
 <th></th>
 
-<th>Level 1
-<br>3-9 months
-<br>Launch
-<br><br>Ensure that the initial team executing the Six Sigma effort has the necessary support in the organization, and to ensure proper project selection in order to drive successes at the next level.
-</th>
+<th>Level 1: Launch</th>
 
-<th>Level 2
-<br>6-18 months
-<br>Early Success
-<br><br>Ensure that projects are completed in a reasonable time and that they have meaningful financial impact on the business.
-</th>
+<th>Level 2: Early Success</th>
 
-<th>Level 3
-<br>12-36 months
-<br>Scale/Replication
-<br><br>Ensure that the methodology is consistently applied in other parts of the company, and to ensure that financial impact and results are replicated.
-</th>
+<th>Level 3: Scale/Replication</th>
 
-<th>Level 4
-<br>24-48+ months
-<br>Institutionalization
-<br><br>Set up consistent processes for Six Sigma execution, while allowing for controlled variation in different parts of the company.
-</th>
+<th>Level 4: Institutionalization</th>
 
-<th>Level 5
-<br>48+ months
-<br>Culture Transformation
-<br><br>Keep Six Sigma fresh, and innovate in the new areas where it can be applied as the company inevitably goes through natural business cycles of growth, threat, acquisitions, etc.</p>
-</td>
-
-</th>
+<th>Level 5: Culture Transformation</th>
 
 </tr>
 
