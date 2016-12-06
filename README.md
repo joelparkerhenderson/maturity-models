@@ -17,11 +17,11 @@ We welcome examples of maturity models. If you know of a maturity model, please 
 
 Examples:
 
+* [The Six Sigma Maturity Model™](software/six_sigma/six_sigma_maturity_model.md)
 * [OpenSource Maturity Model](software/open_source/opensource_maturity_model.md)
 * [Enterprise Architecture: TOGAF Maturity Model](software/enterprise_architecture/togaf_maturity_model.md)
 * [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
 * [Agile Maturity Model (AMM) by ThoughtWorks (TW)](software/agile_devops/agile_maturity_model_by_thoughtworks.md)
-
 
 <h2><a name="maturity-model-levels">Maturity model levels</a></h2>
 
