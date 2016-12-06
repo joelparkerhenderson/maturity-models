@@ -21,31 +21,35 @@ The five levels:
 
 <th><th>
 
-<th>Level 1<br>3-9 months<br>Launch</th>
+<th>Level 1
+<br>3-9 months
+<br>Launch
+<p>Challenge: Ensure that the initial team executing the Six Sigma effort has the necessary support in the organization, and to ensure proper project selection in order to drive successes at the next level.</p>
+</th>
 
-<th>Level 2<br>6-18 months<br>Early Success</th>
+<th>Level 2
+<br>6-18 months
+<br>Early Success
+<p>Challenge: ensure that projects are completed in a reasonable time and that they have meaningful financial impact on the business.</p>
+</th>
 
-<th>Level 3<br>12-36 months<br>Scale/Replication</th>
+<th>Level 3
+<br>12-36 months
+<br>Scale/Replication
+<p>Challenge: ensure that the methodology is consistently applied in other parts of the company, and to ensure that financial impact and results are replicated.</p>
+</th>
 
-<th>Level 4<br>24-48+ months<br>Institutionalization</th>
+<th>Level 4<br>24-48+ months<br>Institutionalization
+<p>Challenge: set up consistent processes for Six Sigma execution, while allowing for controlled variation in different parts of the company.</p>
+</th>
 
-<th>Level 5<br>48+ months<br>Culture Transformation</th>
+<th>Level 5
+<br>48+ months
+<br>Culture Transformation
+<p>Challenge keep Six Sigma fresh, and innovate in the new areas where it can be applied as the company inevitably goes through natural business cycles of growth, threat, acquisitions, etc.</p>
+</td>
 
-</tr>
-
-<tr>
-
-<th>Key Challenges</th>
-
-<td>To ensure that the initial team executing the Six Sigma effort has the necessary support in the organization, and to ensure proper project selection in order to drive successes at the next level.</td>
-
-<td>To ensure that projects are completed in a reasonable time and that they have meaningful financial impact on the business.</td>
-
-<td>To ensure that the methodology is consistently applied in other parts of the company, and to ensure that financial impact and results are replicated. It is important to have a strong deployment leader for the company who ensures consistency of methodology and results.</td>
-
-<td>To set up consistent processes for Six Sigma execution. For example, consistency should be achieved in areas such as project selection and scoring, approvals, financial impact measurement and validation, project execution roadmaps, reports, Belt training, etc. This should be pursued while allowing for controlled variation in different parts of the company, ranging, for example, from manufacturing to transaction-heavy organizations.</td>
-
-<td>To continue to keep Six Sigma fresh and to innovate in the new areas where it can be applied as the company inevitably goes through natural business cycles of growth, threat, acquisitions, etc.</td>
+</th>
 
 </tr>
 
