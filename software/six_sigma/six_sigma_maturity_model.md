@@ -19,34 +19,36 @@ The five levels:
 
 <tr>
 
-<th><th>
+<th></th>
 
 <th>Level 1
 <br>3-9 months
 <br>Launch
-<p>Challenge: Ensure that the initial team executing the Six Sigma effort has the necessary support in the organization, and to ensure proper project selection in order to drive successes at the next level.</p>
+<br><br>Ensure that the initial team executing the Six Sigma effort has the necessary support in the organization, and to ensure proper project selection in order to drive successes at the next level.
 </th>
 
 <th>Level 2
 <br>6-18 months
 <br>Early Success
-<p>Challenge: ensure that projects are completed in a reasonable time and that they have meaningful financial impact on the business.</p>
+<br><br>Ensure that projects are completed in a reasonable time and that they have meaningful financial impact on the business.
 </th>
 
 <th>Level 3
 <br>12-36 months
 <br>Scale/Replication
-<p>Challenge: ensure that the methodology is consistently applied in other parts of the company, and to ensure that financial impact and results are replicated.</p>
+<br><br>Ensure that the methodology is consistently applied in other parts of the company, and to ensure that financial impact and results are replicated.
 </th>
 
-<th>Level 4<br>24-48+ months<br>Institutionalization
-<p>Challenge: set up consistent processes for Six Sigma execution, while allowing for controlled variation in different parts of the company.</p>
+<th>Level 4
+<br>24-48+ months
+<br>Institutionalization
+<br><br>Set up consistent processes for Six Sigma execution, while allowing for controlled variation in different parts of the company.
 </th>
 
 <th>Level 5
 <br>48+ months
 <br>Culture Transformation
-<p>Challenge keep Six Sigma fresh, and innovate in the new areas where it can be applied as the company inevitably goes through natural business cycles of growth, threat, acquisitions, etc.</p>
+<br><br>Keep Six Sigma fresh, and innovate in the new areas where it can be applied as the company inevitably goes through natural business cycles of growth, threat, acquisitions, etc.</p>
 </td>
 
 </th>
