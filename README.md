@@ -6,9 +6,21 @@ A maturity model is a business tool used to assess people/culture, processes/str
 
 See https://en.wikipedia.org/wiki/Maturity_model
 
-* [Maturity model levels](#maturity-model-levels)
 * [Maturity model examples](#maturity-model-examples)
+* [Maturity model levels](#maturity-model-levels)
 * [Top-down vs. bottom-up](#top-down-vs-bottom-up)
+
+
+<h2><a name="maturity-model-examples">Maturity model examples</a></h2>
+
+We welcome examples of maturity models. If you know of a maturity model, please let us know by by creating a GitHub issue and/or a pull request.
+
+Examples:
+
+* [OpenSource Maturity Model](software/open_source/opensource_maturity_model.md)
+* [Enterprise Architecture: TOGAF Maturity Model](software/enterprise_architecture/togaf_maturity_model.md)
+* [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
+* [Agile Maturity Model (AMM) by ThoughtWorks (TW)](software/agile_devops/agile_maturity_model_by_thoughtworks.md)
 
 
 <h2><a name="maturity-model-levels">Maturity model levels</a></h2>
@@ -29,18 +41,6 @@ For example, a maturity model can have levels 0-5, generally corresponding to th
 * 3. Defining, Detailing, Disciplined, Distributed Usage
 * 4. Managing, Measuring, Mainstreaming, Majority Usage
 * 5. Ongoing, Optimizing, Orchestrating, Opportunity-creating, Organization-wide Usage
-
-
-<h2><a name="maturity-model-examples">Maturity model examples</a></h2>
-
-We welcome examples of maturity models. If you know of a maturity model, please let us know by by creating a GitHub issue and/or a pull request.
-
-Examples:
-
-* [OpenSource Maturity Model](software/open_source/opensource_maturity_model.md)
-* [Enterprise Architecture: TOGAF Maturity Model](software/enterprise_architecture/togaf_maturity_model.md)
-* [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
-* [Agile Maturity Model (AMM) by ThoughtWorks (TW)](software/agile_devops/agile_maturity_model_by_thoughtworks.md)
 
 
 <h2><a name="top-down-vs-bottom-up">Top-down vs. bottom-up</a></h2>
