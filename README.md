@@ -1,4 +1,4 @@
-README.md# Maturity Models
+# Maturity Models
 
 <img src="README.png" alt="Maturity Models" style="width: 100%;"/>
 
