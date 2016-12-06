@@ -1,4 +1,4 @@
-# Maturity Models
+README.md# Maturity Models
 
 <img src="README.png" alt="Maturity Models" style="width: 100%;"/>
 
@@ -39,8 +39,8 @@ Examples:
 
 * [OpenSource Maturity Model](software/open_source/opensource_maturity_model.md)
 * [Enterprise Architecture: TOGAF Maturity Model](software/enterprise_architecture/togaf_maturity_model.md)
-* [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](software/agile_devops/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
-* [ThoughtWorks Agile Maturity Model (AMM)](https://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf)
+* [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
+* [Agile Maturity Model (AMM) by ThoughtWorks (TW)](software/agile_devops/agile_maturity_model_by_thoughtworks.md)
 
 
 <h2><a name="top-down-vs-bottom-up">Top-down vs. bottom-up</a></h2>
