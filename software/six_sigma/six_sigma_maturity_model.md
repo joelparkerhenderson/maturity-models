@@ -15,6 +15,12 @@ The five levels:
 * 5. Culture Transformation – Six Sigma is part of the organizational DNA, financial impact is sustained and the Six Sigma culture is pervasive – even beyond the Six Sigma practitioners and beyond the company boundaries.
 
 
+<style>
+tr,td {
+  vertical-align:top !important;
+}
+</style>
+
 <table>
 
 <tr>
