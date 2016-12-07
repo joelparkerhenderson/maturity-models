@@ -22,17 +22,14 @@ Examples:
 * [The Six Sigma Maturity Model™](examples/six_sigma/six_sigma_maturity_model.md)
 * [Social Media Maturity Model](examples/social_media/social_media_maturity_model.md)
 * [OpenSource Maturity Model](software/open_source/opensource_maturity_model.md)
-* Agile
-  * [Agile Fluency](software/agile/agile_fluency.md)
-  * [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
-  * [Agile Maturity Model (AMM) by ThoughtWorks (TW)](software/agile_devops/agile_maturity_model_by_thoughtworks.md)
-* Enterprise Architecture
-  * [Enterprise Architecture: TOGAF Maturity Model](software/enterprise_architecture/togaf_maturity_model.md)
-  * [Enterprise Architecture Maturity Model based on CMMI CM SEI](software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
-* Capabilitity Maturity Model Integration
-  * [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2006_005_001_14771.pdf)
-  * [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)]
+* [Agile Fluency](software/agile/agile_fluency.md)
+* [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
+* [Agile Maturity Model (AMM) by ThoughtWorks (TW)](software/agile_devops/agile_maturity_model_by_thoughtworks.md)
+* [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2006_005_001_14771.pdf)
+* [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)]
 (http://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14897.pdf)
+* [Enterprise Architecture: TOGAF Maturity Model](software/enterprise_architecture/togaf_maturity_model.md)
+* [Enterprise Architecture Maturity Model based on CMMI CM SEI](software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
 
 
 <h2><a name="maturity-model-levels">Maturity model levels</a></h2>
@@ -75,3 +72,4 @@ Two approaches for designing maturity models exist:
 <h2><a name="related-asssessment-metrics">Related assessment metrics</a></h2>
 
 * [The Excellence Audit Top 10 10 by Tom Peters](examples/the_excellence_audit_top_ten_by_tom_peters.md)
+* [Great Professional Service Firms - by Tom Peters](examples/great_professional_service_firms_by_tom_peters.md)
