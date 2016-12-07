@@ -3,15 +3,15 @@
 
 <h2>1. Introductory Stage of Social Media</h2>
 
-Action:
+<b>Action:</b>
 
 * Company Begins to Listen and Observe Customers and Competitors Sentiment on Social Media
 
-Success:
+<b>Success:</b>
 
 * Measured by Occasional Mentions Customers, Clients, or Partners
 
-Elements:
+<b>Elements:</b>
 
 * Individual Employees Use Some Social Media Without Company Involvement
 * Company Has No Social Media Policy or Strategy
@@ -20,37 +20,37 @@ Elements:
 
 <h2>2. Planning and Pilot Stage of Social Media</h2>
 
-Action:
+<b>Action:</b>
 
 * Company or Contracted Agency Creates Achievable Strategy and Enacts Pilot Program.
 * Defined Platforms and Social Media Calendar Including Growth Priorities.
 
-Success:
+<b>Success:</b>
 
 * Measured by Growing Awareness and Collection of Appropriate Persons to Formulate Strategy Including Platforms, Risk Strategy, and Desired Outcomes.
 * Tracking of Basic Analytics Begins.
 
-Elements:
+<b>Elements:</b>
 
 * Social Media Are Used by Single Departments (PR, HR)
 * Need for Social Media Strategy is Apparent
 * No Set Procedure for Responding to Social Media Mentions
 
 
-<h2>Customer Oriented Stage of Social Media</h2>
+<h2>3. Customer Oriented Stage of Social Media</h2>
 
-Action:
+<b>Action:</b>
 
 * Social Media Procedures are Considered Throughout Company Decisions both for Informing Decision Making through Clearly Defined Company Culture as well as Adding Value and Marketing Opportunities.
 
-Success:
+<b>Success:</b>
 
 * Measured by ROI in Customer Aquisitions and Path to Purchase.
 * Lower Costs on Customer Support.
 * Company is Seen as Available, Accurate, and Authentic via Social Media.
 * Company Connections Become Visible and Add Value.
 
-Elements:
+<b>Elements:</b>
 
 * Social Media is Used for Defined Specific Purposes
 * Social Media Supports Internal Company Culture through Crossover and Support of Multiple Departments
@@ -63,11 +63,11 @@ Elements:
 
 <h2>Integrated Stage of Social Media</h2>
 
-Action:
+<b>Action:</b>
 
 * Company Maintains Multiple Platforms that Cover Varied Content and Tone with Ease Through Inter-Departmental Enactment of Social Media Strategy.
 
-Success:
+<b>Success:</b>
 
 * Measured by Established and Well Utilized Company Culture Represented through all Levels of Company Interactions.
 * Observed Metrics Specific to Lines of Business.
@@ -75,7 +75,7 @@ Success:
 * All Departments and Company Members are Included in Strategy and Responsibility and Enjoy Social Media Roles.
 * Company is Known as Solution Facilitator to Clients and Partner Companies.
 
-Elements:
+<b>Elements:</b>
 
 * Internal Culture of Cooperative Network becomes Evidenced and Supported through Social Media
 * Individual Employees Contribute to Social Media Strategy and Add Value
