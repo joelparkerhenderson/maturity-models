@@ -1,85 +1,85 @@
-# Social Media Maturity Model
+# Social media maturity model
 
 
-<h2>1. Introductory Stage of Social Media</h2>
-
-<b>Action:</b>
-
-* Company Begins to Listen and Observe Customers and Competitors Sentiment on Social Media
-
-<b>Success:</b>
-
-* Measured by Occasional Mentions Customers, Clients, or Partners
-
-<b>Elements:</b>
-
-* Individual Employees Use Some Social Media Without Company Involvement
-* Company Has No Social Media Policy or Strategy
-* Company Doesn’t Consistently Monitor Social Media Mentions
-
-
-<h2>2. Planning and Pilot Stage of Social Media</h2>
+<h2>1. Introductory stage of social media</h2>
 
 <b>Action:</b>
 
-* Company or Contracted Agency Creates Achievable Strategy and Enacts Pilot Program.
-* Defined Platforms and Social Media Calendar Including Growth Priorities.
+* Company begins to listen and observe customers and competitors sentiment on social media
 
 <b>Success:</b>
 
-* Measured by Growing Awareness and Collection of Appropriate Persons to Formulate Strategy Including Platforms, Risk Strategy, and Desired Outcomes.
-* Tracking of Basic Analytics Begins.
+* Measured by occasional mentions customers, clients, or partners
 
 <b>Elements:</b>
 
-* Social Media Are Used by Single Departments (PR, HR)
-* Need for Social Media Strategy is Apparent
-* No Set Procedure for Responding to Social Media Mentions
+* Individual employees use some social media without company involvement
+* Company has no social media policy or strategy
+* Company doesn’t consistently monitor social media mentions
 
 
-<h2>3. Customer Oriented Stage of Social Media</h2>
+<h2>2. Planning and pilot stage of social media</h2>
 
 <b>Action:</b>
 
-* Social Media Procedures are Considered Throughout Company Decisions both for Informing Decision Making through Clearly Defined Company Culture as well as Adding Value and Marketing Opportunities.
+* Company or contracted agency creates achievable strategy and enacts pilot program.
+* Defined platforms and social media calendar including growth priorities.
 
 <b>Success:</b>
 
-* Measured by ROI in Customer Aquisitions and Path to Purchase.
-* Lower Costs on Customer Support.
-* Company is Seen as Available, Accurate, and Authentic via Social Media.
-* Company Connections Become Visible and Add Value.
+* Measured by growing awareness and collection of appropriate persons to formulate strategy including platforms, risk strategy, and desired outcomes.
+* Tracking of basic analytics begins.
 
 <b>Elements:</b>
 
-* Social Media is Used for Defined Specific Purposes
-* Social Media Supports Internal Company Culture through Crossover and Support of Multiple Departments
-* Social Media is a Component of Marketing Campaigns
-* Social Media Supports Individual Employees through Recognition
-* Conversation between Company and Customers, Clients, or Partners via Social Media
-* Social Media Policy is Clearly Stated and Known Company Wide
-* Set Procedure for Responding to Social Media Mentions
+* Social media are used by single departments (pr, hr)
+* Need for social media strategy is apparent
+* No set procedure for responding to social media mentions
 
 
-<h2>Integrated Stage of Social Media</h2>
+<h2>3. Customer oriented stage of social media</h2>
 
 <b>Action:</b>
 
-* Company Maintains Multiple Platforms that Cover Varied Content and Tone with Ease Through Inter-Departmental Enactment of Social Media Strategy.
+* Social media procedures are considered throughout company decisions both for informing decision making through clearly defined company culture as well as adding value and marketing opportunities.
 
 <b>Success:</b>
 
-* Measured by Established and Well Utilized Company Culture Represented through all Levels of Company Interactions.
-* Observed Metrics Specific to Lines of Business.
-* Specialized Teams Continue to Work Across Departments to Advance Social Media Strategies, Actions, and Outcomes.
-* All Departments and Company Members are Included in Strategy and Responsibility and Enjoy Social Media Roles.
-* Company is Known as Solution Facilitator to Clients and Partner Companies.
+* Measured by roi in customer aquisitions and path to purchase.
+* Lower costs on customer support.
+* Company is seen as available, accurate, and authentic via social media.
+* Company connections become visible and add value.
 
 <b>Elements:</b>
 
-* Internal Culture of Cooperative Network becomes Evidenced and Supported through Social Media
-* Individual Employees Contribute to Social Media Strategy and Add Value
-* Customers, Clients, and Partners Develop and Enact Social Media Collaborative Campaigns and Spontaneous Added Value
-* Structure for Continuing Collaborative Campaigns becomes a Priority in Marketing Strategy
-* Internal Company Culture and External Customer/Client Culture becomes Integrated
-* Company’s Unique Outlook and Approach are Solidified and Celebrated Internally and Externally
+* Social media is used for defined specific purposes
+* Social media supports internal company culture through crossover and support of multiple departments
+* Social media is a component of marketing campaigns
+* Social media supports individual employees through recognition
+* Conversation between company and customers, clients, or partners via social media
+* Social media policy is clearly stated and known company wide
+* Set procedure for responding to social media mentions
+
+
+<h2>Integrated stage of social media</h2>
+
+<b>Action:</b>
+
+* Company maintains multiple platforms that cover varied content and tone with ease through inter-departmental enactment of social media strategy.
+
+<b>Success:</b>
+
+* Measured by established and well utilized company culture represented through all levels of company interactions.
+* Observed metrics specific to lines of business.
+* Specialized teams continue to work across departments to advance social media strategies, actions, and outcomes.
+* All departments and company members are included in strategy and responsibility and enjoy social media roles.
+* Company is known as solution facilitator to clients and partner companies.
+
+<b>Elements:</b>
+
+* Internal culture of cooperative network becomes evidenced and supported through social media
+* Individual employees contribute to social media strategy and add value
+* Customers, clients, and partners develop and enact social media collaborative campaigns and spontaneous added value
+* Structure for continuing collaborative campaigns becomes a priority in marketing strategy
+* Internal company culture and external customer/client culture becomes integrated
+* Company’s unique outlook and approach are solidified and celebrated internally and externally
