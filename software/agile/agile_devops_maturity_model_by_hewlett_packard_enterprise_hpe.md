@@ -195,7 +195,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 
 <tr style="vertical-align:top;">
 
-<th style="vertical-align:top !important;">>Initial</th>
+<th style="vertical-align:top !important; display: block;">Initial</th>
 
 <td style="vertical-align:top;">
 <p>Development teams work in isolation, and use the tools, middleware, and components they deem most appropriate to deliver the work.</td>
