@@ -1,6 +1,10 @@
 # Enterprise Architecture Maturity Model based on CMMI CM SEI
 
-This Enteprise Architecture Maturity Model is organised into 5 levels, based on the Carnegie-Mellon Software Engineering Institute’s Capability Maturity Model for Software CMMI. See http://iea.wikidot.com/ea-maturity-model
+This Enterprise Architecture Maturity Model is based on the
+Capability Maturity Model Integration (CMMI) for Software
+by the Carnegie-Mellon Software Engineering Institute (CM SEI).
+
+See http://iea.wikidot.com/ea-maturity-model
 
 
 <h2>Level 0: None</h2>
