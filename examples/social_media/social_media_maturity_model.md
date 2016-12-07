@@ -83,3 +83,12 @@
 * Structure for continuing collaborative campaigns becomes a priority in marketing strategy
 * Internal company culture and external customer/client culture becomes integrated
 * Company’s unique outlook and approach are solidified and celebrated internally and externally
+
+
+<h2>Credit</h2>
+
+By Even Howard based on:
+
+* http://www.socialmediamodels.net/social-media-adoption-models-category/social-media-maturity-model/
+
+* http://simplymeasured.com/blog/what-is-social-media-maturity/#sm.0001kh36aqmlyd0wtgx11jzv0fufr
