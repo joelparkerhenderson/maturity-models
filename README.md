@@ -9,6 +9,8 @@ See https://en.wikipedia.org/wiki/Maturity_model
 * [Maturity model examples](#maturity-model-examples)
 * [Maturity model levels](#maturity-model-levels)
 * [Top-down vs. bottom-up](#top-down-vs-bottom-up)
+* [Rebuttals to maturity models](#rebuttals-to-maturity-models)
+* [Related assessment metrics](#related-assessment-metrics)
 
 
 <h2><a name="maturity-model-examples">Maturity model examples</a></h2>
@@ -60,3 +62,16 @@ Two approaches for designing maturity models exist:
 * Top-down approach: a fixed number of maturity stages or levels is specified first, then corroborated with characteristics (typically in form of specific assessment items) that support the initial assumptions about how maturity evolves.
 
 * Bottom-up approach: distinct characteristics or assessment items are determined first, then clustered in a second step into maturity levels to induce a more general view of the different steps of maturity evolution.
+
+
+<h2><a name="rebuttals-to-maturity-models">Rebuttals to maturity models</a></h2>
+
+* [Immaturity of Maturity Models by James Bach](http://www.satisfice.com/blog/archives/581)
+* [Maturity Models Have It Backwards by Michael Bolton](http://www.developsense.com/blog/2009/10/maturity-models-have-it-backwards/)
+* [No Best Practices by James Bach](http://www.satisfice.com/blog/archives/27)
+* [The Immaturity of CMM](http://www.satisfice.com/articles/cmm.shtml)
+
+
+<h2><a name="related-asssessment-metrics">Related assessment metrics</a></h2>
+
+* [The Excellence Audit Top 10 10 by Tom Peters](examples/the_excellence_audit_top_ten_by_tom_peters.md)
