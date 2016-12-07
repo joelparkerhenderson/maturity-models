@@ -5,11 +5,11 @@
 
 <b>Action:</b>
 
-* Company begins to listen and observe customers and competitors sentiment on social media
+* Company begins to listen and observe customers' and competitors' sentiments and tone on social media
 
 <b>Success:</b>
 
-* Measured by occasional mentions customers, clients, or partners
+* Measured by occasional mentions by customers, clients, or partners.
 
 <b>Elements:</b>
 
@@ -45,7 +45,7 @@
 
 <b>Success:</b>
 
-* Measured by roi in customer aquisitions and path to purchase.
+* Measured by ROI in customer acquisitions and path to purchase.
 * Lower costs on customer support.
 * Company is seen as available, accurate, and authentic via social media.
 * Company connections become visible and add value.
@@ -79,7 +79,7 @@
 
 * Internal culture of cooperative network becomes evidenced and supported through social media
 * Individual employees contribute to social media strategy and add value
-* Customers, clients, and partners develop and enact social media collaborative campaigns and spontaneous added value
+* Customers, clients, and partners develop and enact social media collaborative campaigns, and spontaneously add value
 * Structure for continuing collaborative campaigns becomes a priority in marketing strategy
 * Internal company culture and external customer/client culture becomes integrated
 * Company’s unique outlook and approach are solidified and celebrated internally and externally
