@@ -1,6 +1,6 @@
-# Agile Fluency by James Shore_and_diana_larsen
+# Agile Fluency
 
-See [Agile Fluency by James Shore and DianaL arsen](http://martinfowler.com/articles/agileFluency.html)
+See [Agile Fluency by James Shore and Diana Larsen](http://martinfowler.com/articles/agileFluency.html)
 
 <table>
 
