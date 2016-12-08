@@ -2,10 +2,20 @@
 
 See https://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf
 
+* [Table with all areas](#table)
+* [Build management and continuous integration](#build-management-and-continous-integration)
+* [Environments and deployment](#environments-and-deployment)
+* [Release management and compliance](#release-management-and-compliance)
+* [Testing](#testing)
+* [Data management](#data-management)
+
+
+<h2><a name="table">Table</a></h2>
+
 <table>
 
 <tr>
-<th>Practice</th>
+<th></th>
 <th>Build management and continuous integration</th>
 <th>Environments and deployment</th>
 <th>Release management and compliance</th>
@@ -163,3 +173,114 @@ See https://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.p
 </tr>
 
 </table>
+
+
+<h2><a name="build-management-and-continous-integration">Build management and continuous integration</a></h2>
+
+Level -1:
+* Manual processes for building software.
+* No management of artifacts and reports.
+
+Level 0:
+* Regular automated build and testing.
+* Any build can be re-created from source control using automated process.
+
+Level 1:
+* Automated build and test cycle every time a change is committed.
+* Dependencies managed.
+* Re-use of scripts and tools.
+
+Level 2:
+* Build metrics gathered, made visible, and acted on.
+* Builds are not left broken.
+
+Level 3:
+* Teams regularly meet to discuss integration problems.
+* Teams resolve problems with automation, fast feedback, and better visibility.
+
+
+<h2><a name="environments-and-deployment">Environments and deployment</a></h2>
+
+Level -1:
+* Manual process for deploying software.
+* Environment-specific binaries.
+* Environments provisioned manually.
+
+Level 0:
+* Automated deployment to some environments.
+* Creation of new environments is cheap.
+* All configuration externalized/versioned.
+
+Level 1:
+* Fully automated, self-service push-button process for deploying software.
+* Same process to deploy to every environment.
+
+Level 2:
+* Orchestrated deployments managed.
+* Release a rollback processes tested.
+
+Level 3:
+* All environments managed effectively.
+* Provisioning fully automated.
+* Virtualization used if appropriate.
+
+
+<h2><a name="release-management-and-compliance">Release management and compliance</a></h2>
+
+Level -1:
+* Infrequent and unreliable releases.
+
+Level 0:
+* Painful and infrequent, but reliable, releases.
+* Limited traceability from requirements to release.
+
+Level 1:
+* Change management and approvals process defined and enforced.
+* Regulatory and compliance conditions met.
+
+Level 2:
+* Environment and application health monitored and proactively managed.
+* Cycle time monitored.
+
+Level 3:
+* Operations and delivery teams regularly collaborate to manage risks and reduce cycle time.
+
+
+<h2><a name="testing">Testing</a></h2>
+
+Level -1:
+* Manual testing after development.
+
+Level 0:
+* Automated tests written as part of story development.
+
+Level 1:
+* Automated unit and acceptance tests, the latter written with testers.
+* Testing part of the development process.
+
+Level 2:
+* Quality metrics and trends tracked.
+* Non-functional requirements defined and measured.
+
+Level 3:
+* Production rollbacks rare.
+* Defects found and fixed immediately.
+
+
+<h2><a name="data-management">Data management</a></h2>
+
+Level -1:
+* Data migrations unversioned and performed manually.
+
+Level 0:
+* Changes to databases done with automated scripts versioned with application.
+
+Level 1:
+* Database changes performed automatically as part of the deployment processes.
+
+Level 2:
+* Database upgrades and rollbacks testing with every deployment.
+* Database performance monitored and optimized.
+
+Level 3:
+* Release-to-release feedback loop of database performance and deployment process.
