@@ -2,7 +2,7 @@
 
 See https://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf
 
-* [Table with all areas](#table)
+* [Table of all areas](#table-of-all-areas)
 * [Build management and continuous integration](#build-management-and-continous-integration)
 * [Environments and deployment](#environments-and-deployment)
 * [Release management and compliance](#release-management-and-compliance)
@@ -10,7 +10,7 @@ See https://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.p
 * [Data management](#data-management)
 
 
-<h2><a name="table">Table</a></h2>
+<h2><a name="table-of-all-areas">Table of all areas</a></h2>
 
 <table>
 
