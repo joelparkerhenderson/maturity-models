@@ -77,13 +77,13 @@ There are five maturity levels:
 
 ## Managing IT like a Business
 
-1. Unmanaged 
+1. Initial - Unmanaged 
 
   * There is no IT strategy
 
   * There are no defined IT processes
 
-2. Cost Centre - IT is a cost centre
+2. Basic - Cost Centre - IT is a cost centre
 
   * Asset and cost centre systems are in place
 
@@ -91,13 +91,13 @@ There are five maturity levels:
 
   * Some IT processes have been documented
 
-3. Service Centre - IT is oriented to customers and service
+3. Intermediate - Service Centre - IT is oriented to customers and service
 
   * Chargeback and cost accounting systems are in place
 
   * Service delivery and management practices are implemented
 
-4. Investment Centre - IT is focused on service and usage excellence
+4. Advanced - Investment Centre - IT is focused on service and usage excellence
 
   * IT customer and supplier relationship management are excellent
 
@@ -105,7 +105,7 @@ There are five maturity levels:
 
   * IT uses dynamic resource allocation
 
-5. Value Centre - IT is a value centre and publishes value statements regularly
+5. Optimizing - Value Centre - IT is a value centre and publishes value statements regularly
 
   * IT and business values are highly aligned
 
