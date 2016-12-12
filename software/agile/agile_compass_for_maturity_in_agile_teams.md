@@ -1,3 +1,5 @@
+# Agile Compass for maturity in agile teams
+
 The Agile Compass checklist can help development teams identify which outcomes they have accomplished
 
 * [Practices learning](#practices-learning)
@@ -8,7 +10,7 @@ The Agile Compass checklist can help development teams identify which outcomes t
 * [Customer relationship](#customer-relationship)
 * [Organization support](#organization-support)
 
-Credit: 
+Credit:
 * [Agile Compass: A Tool for Identifying Maturity in Agile Software-Development Teams
 ](http://ieeexplore.ieee.org/document/7311000/)
 * [The Agile Compass checklist](https://s3.amazonaws.com/ieeecs.cdn.csdl.public/mags/so/2015/06/extras/mso201506_AnAgile_s1.pdf)
@@ -148,7 +150,7 @@ Deliveries are planned and done, but usually late. Sometimes extra demands appea
 
 ### Deliveries done by deadline
 
-Deliveries are planned and done within deadline, sometimes before. Stories are usually small. 
+Deliveries are planned and done within deadline, sometimes before. Stories are usually small.
 Environment supports automated build and integration.
 
 * We plan our deliveries and do them, sometimes before deadline.
@@ -316,4 +318,3 @@ Software development companies that are created with agile methods are, usually,
 
 * Our teams adopt an agile foundation, but customize the way they work according to the
 projects characteristics
-
