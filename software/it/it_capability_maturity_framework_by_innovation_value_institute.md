@@ -27,6 +27,8 @@ There are five maturity levels:
 * Advanced
 * Optimizing
 
+Table of macro-capabilties and maturity levels:
+
 <table>
 
 <tr>
