@@ -3,8 +3,14 @@
 Credit:  [The IT Capability Maturity Framework™ (IT-CMF™) - Executive Overview - By Innovation Value Institute (IVI)](
 https://www.vanharen.net/Player/eKnowledge/execoverview_itcmf_web.pdf)
 
+* [Macro-capapbilities](#macro-capabilities)
+* [Managing IT like a Business](#managing-it-like-a-business)
+* [Managing the IT Budget](#managing-the-it-budget)
+* [Managing the IT Capability](#managing-the-it-capability)
+* [Managing IT for Business Value](#managing-it-for-business-value)
 
-## Macro Capabilities
+
+<h2><a name="macro-capabilties">Macro Capabilities</a></h2>
 
 The IT-CMF is a blueprint for incremental improvement across four macro-capabilities:
 
@@ -71,11 +77,10 @@ There are five maturity levels:
 <td>Optimized value</td>
 </tr>
 
-
 </table>
 
 
-## Managing IT like a Business
+<h2><a name="managing-it-like-a-business">Managing IT like a Business</a></h2>
 
 1. Initial - Unmanaged 
 
@@ -114,7 +119,7 @@ There are five maturity levels:
   * The IT organization is strongly entrepreneurial
 
 
-## Managing the IT Budget
+<h2><a name="managing-the-it-budget">Managing the IT Budget</a></h2>
 
 1. Initial - Unmanaged - Financial performance is erratic
 
@@ -155,7 +160,7 @@ There are five maturity levels:
   * Budget is driven by long-term organisztion and business roadmaps
 
 
-## Managing the IT Capability
+<h2><a name="managing-the-it-capability">Managing the IT Capability</a></h2>
 
 1. Initial - Unmanaged - Users purchase and maintain IT systems
 
@@ -192,7 +197,7 @@ There are five maturity levels:
   * IT is recognized as a differentiating core competency
 
 
-## Managing IT for Business Value
+<h2><a name="managing-it-for-business-value">Managing IT for Business Value</a></h2>
 
 1. Initial - Unmanaged - Decisions are based on cost, not value
 
