@@ -4,6 +4,77 @@ Credit:  [The IT Capability Maturity Framework™ (IT-CMF™) - Executive Overvi
 https://www.vanharen.net/Player/eKnowledge/execoverview_itcmf_web.pdf)
 
 
+## Macro Capabilities
+
+The IT-CMF is a blueprint for incremental improvement across four macro-capabilities:
+
+* Managing IT like a Business
+* Managing the IT Budget
+* Managing the IT Capability
+* Managing IT for Business Value
+
+There are five maturity levels:
+
+* Initial
+* Basic
+* Intermediate
+* Advanced
+* Optimizing
+
+<table>
+
+<tr>
+<th>Maturity Levels</th>
+<th>Managing IT like a Business</th>
+<th>Managing the IT Budget</th>
+<th>Managing the IT Capability</th>
+<th>Managing IT for Business Value</th>
+</tr>
+
+<tr>
+<th>Initial</th>
+<td>Unmanaged</td>
+<td>Unmanaged</td>
+<td>Unmanaged</td>
+<td>Unmanaged</td>
+</tr>
+
+<tr>
+<th>Basic</th>
+<td>Cost centre</td>
+<td>Predictable performance</td>
+<td>Technology supplier</td>
+<td>Total cost of ownership</td>
+</tr>
+
+<tr>
+<th>Intermediate</th>
+<td>Service centre</td>
+<td>Systemic cost reduction</td>
+<td>Technology expert</td>
+<td>ROI and business case</td>
+</tr>
+
+<tr>
+<th>Advanced</th>
+<td>Investment centre</td>
+<td>Expanded funding options</td>
+<td>Strategic business partner</td>
+<td>Options and portfolio management</td>
+</tr>
+
+<tr>
+<th>Optimizing</th>
+<td>Value centre</td>
+<td>Budget amplification</td>
+<td>Corporate core competency</td>
+<td>Optimized value</td>
+</tr>
+
+
+</table>
+
+
 ## Managing IT like a Business
 
 1. Unmanaged 
