@@ -30,6 +30,7 @@ Examples:
 (http://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14897.pdf)
 * [Enterprise Architecture: TOGAF Maturity Model](software/enterprise_architecture/togaf_maturity_model.md)
 * [Enterprise Architecture Maturity Model based on CMMI CM SEI](software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
+* [IT Capability Maturity Framework by the Innovation Value Institute (IVI](software/it/it_capability_maturity_framework_by_innovation_value_institute.md)
 
 
 <h2><a name="maturity-model-levels">Maturity model levels</a></h2>
