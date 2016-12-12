@@ -25,7 +25,7 @@ Examples:
 * [Agile Compass for maturity in agile teams](software/agile/agile_compass_for_maturity_in_agile_teams.md)
 * [Agile Fluency](software/agile/agile_fluency.md)
 * [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
-* [Agile Maturity Model (AMM) by ThoughtWorks (TW)](software/agile_devops/agile_maturity_model_by_thoughtworks.md)
+* [Agile Maturity Model (AMM) by ThoughtWorks (TW)](software/agile/agile_maturity_model_by_thoughtworks.md)
 * [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2006_005_001_14771.pdf)
 * [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)]
 (http://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14897.pdf)
