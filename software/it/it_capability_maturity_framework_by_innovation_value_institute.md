@@ -116,7 +116,7 @@ There are five maturity levels:
 
 ## Managing the IT Budget
 
-1. Unmanaged - Financial performance is erratic
+1. Initial - Unmanaged - Financial performance is erratic
 
   * The IT budget has no clear owner
 
@@ -124,7 +124,7 @@ There are five maturity levels:
 
   * IT funding is not aligned with long-term business value
 
-2. Predictable Financial Performance
+2. Basic - Predictable Financial Performance
 
   * A defined IT budget exists
 
@@ -132,13 +132,13 @@ There are five maturity levels:
 
   * Variance between actual and planned spend remains within a specified control limit
 
-3. Systematic Cost Reduction - Systematic cost reduction processes are in place
+3. Intermediate - Systematic Cost Reduction - Systematic cost reduction processes are in place
 
   * IT unit costs are trended and reduced annually
 
   * A dynamic baseline IT budget approach is in place
 
-4. Expanded Funding Options - IT has attracted multiple sources of funding
+4. Advanced - Expanded Funding Options - IT has attracted multiple sources of funding
 
   * Cost savings are shifted to strategic investments or to the bottom line
 
@@ -146,7 +146,7 @@ There are five maturity levels:
   
   * The IT budget is aligned with long-term business value
 
-5. Budget Amplification - A stable IT budget supports the growth demands of the company
+5. Optimizing - Budget Amplification - A stable IT budget supports the growth demands of the company
 
   * Budget allocations are balanced across appropriate portfolios that are based on value performance
 
@@ -157,13 +157,13 @@ There are five maturity levels:
 
 ## Managing the IT Capability
 
-1. Unmanaged - Users purchase and maintain IT systems
+1. Initial - Unmanaged - Users purchase and maintain IT systems
 
   * There is no formal IT presence
 
   * There is no integration of IT systems
 
-2. Utility or Technology Supplier
+2. Basic - Utility or Technology Supplier
 
   * There is growing respect for the IT organization
 
@@ -171,13 +171,13 @@ There are five maturity levels:
 
   * IT is a cost to be continuously reduced
 
-3. Technical Expert - IT has a track record for delivering quality services that are reliable
+3. Intermediate - Technical Expert - IT has a track record for delivering quality services that are reliable
 
   * The IT organization is sought out as a source of technical expertise
 
   * IT provides a reliable utility IT service that is benchmarked on performance and cost
 
-4. Strategic Business Partner - IT leadership is integrated with business leadership
+4. Advanced - Strategic Business Partner - IT leadership is integrated with business leadership
 
   * IT delivers solutions that provide value in specific business areas
 
@@ -185,7 +185,7 @@ There are five maturity levels:
 
   * IT leaders understand the business and proactively propose solutions to key opportunities and problems
 
-5. Strategic Core Competency - IT enables information and/or execution superiority over competition
+5. Optimizing - Strategic Core Competency - IT enables information and/or execution superiority over competition
 
   * A steady stream of solutions provides competitive advantage
 
@@ -194,19 +194,19 @@ There are five maturity levels:
 
 ## Managing IT for Business Value
 
-1. Unmanaged - Decisions are based on cost, not value
+1. Initial - Unmanaged - Decisions are based on cost, not value
 
   * There is no comprehension or measure of the value IT provides
 
   * Total cost of ownership is rampantly escalating
 
-2. Total Cost of Ownership - IT computes total cost of ownership for major assets
+2. Basic - Total Cost of Ownership - IT computes total cost of ownership for major assets
 
   * IT tracks total cost of ownership regularly to ensure there is continuous cost reduction
 
   * IT computes total cost of ownership for the full life cycle
 
-3. Simple Return-on Investment and Business Case Disciplines
+3. Intermediate - Simple Return-on Investment and Business Case Disciplines
 
   * There is a disciplined use and review of business cases
 
@@ -214,7 +214,7 @@ There are five maturity levels:
 
   * IT uses multi-metric analysis of business cases to determine best quality investments
 
-4. Portfolio and Options Management
+4. Advanced - Portfolio and Options Management
 
   * IT has a proactive portfolio management programme
 
@@ -222,7 +222,7 @@ There are five maturity levels:
 
   * IT weighs risk and value-at-risk as key components of business cases
 
-5. Optimized Investment Return
+5. Optimizing - Optimized Investment Return
 
   * IT performs sophisticated investment and portfolio analysis in order to optimize investments and spend
 
