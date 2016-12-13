@@ -64,7 +64,7 @@ Contents:
 </td>
 
 <td>
-<p>Release-to-release feedback loop of database and ingration performance and deployment processes.</p>
+<p>Release-to-release feedback loop of database and integration performance and deployment processes.</p>
 </td>
 
 </tr>
@@ -517,4 +517,4 @@ Contents:
 
 5. Optimized
 
-  * Release-to-release feedback loop of database and ingration performance and deployment processes.
+  * Release-to-release feedback loop of database and integration performance and deployment processes.
