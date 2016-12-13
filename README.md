@@ -33,6 +33,9 @@ Examples:
 * [Enterprise Architecture Maturity Model based on CMMI CM SEI](software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
 * [IT Capability Maturity Framework by the Innovation Value Institute (IVI](software/it/it_capability_maturity_framework_by_innovation_value_institute.md)
 * [Program and Portfolio Management Maturity Model by Gartner](examples/management/program_and_portfolio_management_maturity_model_by_gartner.md)
+* [Project Portfolio Management Maturity Levels by Priority Systems](examples/management/project_portfolio management_maturity_evels_by_priority_systems.md)
+
+
 
 
 <h2><a name="maturity-model-levels">Maturity model levels</a></h2>
