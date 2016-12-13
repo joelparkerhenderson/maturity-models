@@ -3,6 +3,18 @@
 See [Building an integrated Agile/DevOps Maturity Model showing how to progress](
 https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Maturity-Model-showing-how/ba-p/6796526)
 
+Contents:
+* [Table of all items](#table)
+* [Organization](#organization)
+* [Teamwork](#teamwork)
+* [Build management continuous integration](#build-management-continuous-integration)
+* [Continuous delivery and deployment](#continuous-delivery-and-deployment)
+* [Lifecycle management & compliance](#lifecycle-management-compliance)
+* [Testing](#testing)
+* [Data & integration management](#data-integration-management)
+
+<h2><a name="table">Table of all items</a></h2>
+
 <table>
 
 <tr>
@@ -241,8 +253,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
 </table>
 
 
-
-## Organization
+<h2><a name="organization">Organization</a></h2>
 
 1. Initial
 
@@ -279,7 +290,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
   * Continuous learning and optimization of the work processess.
 
 
-## Teamwork
+<h2><a name="teamwork">Teamwork</a></h2>
 
 1. Initial
 
@@ -320,7 +331,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
   * Individual empowerment.
 
 
-## Build Management Continuous Integration
+<h2><a name="build-management-continuous-integration">Build management continuous integration</a></h2>
 
 1. Initial
 
@@ -359,7 +370,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
   * Teams resolve problems with automation, fast feedback, and better visibility.
 
 
-## Continuous Delivery and Deployment
+<h2><a name="continuous-delivery-and-deployment">Continuous delivery and deployment</a></h2>
 
 1. Initial
 
@@ -398,7 +409,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
   * Standard topologies are available for common components.
 
 
-## Lifecycle Management & Compliance
+<h2><a name="lifecycle-management-compliance">Lifecycle management & compliance</a></h2>
 
 1. Initial
 
@@ -435,7 +446,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
   * Management integrates user requirements, development, testing, staging, and production.
 
 
-## Testing
+<h2><a name="testing">Testing</a></h2>
 
 1. Initial
 
@@ -478,7 +489,7 @@ https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Ma
   * Defects are found and fixed immediately.
 
 
-## Data & Integration Management
+<h2><a name="data-integration-management">Data & Integration Management</a></h2>
 
 1. Initial
 
