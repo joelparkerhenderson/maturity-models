@@ -1,6 +1,6 @@
 # Project Portfolio Management Maturity Levels by Priority Systems
 
-Credit: [Priority System](http://www.prioritysystem.com/reasons6a.html)
+Credit: [Priority Systems](http://www.prioritysystem.com/reasons6a.html)
 
 
 ## Level 1: Foundation
