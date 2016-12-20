@@ -33,13 +33,13 @@ Examples for management:
 
 Examples for software:
 
-* [OpenSource Maturity Model](software/open_source/opensource_maturity_model.md)
-* [Agile Compass for maturity in agile teams](software/agile/agile_compass_for_maturity_in_agile_teams.md)
-* [Agile Fluency](software/agile/agile_fluency.md)
-* [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
-* [Agile Maturity Model (AMM) by ThoughtWorks (TW)](software/agile/agile_maturity_model_by_thoughtworks.md)
-* [Enterprise Architecture: TOGAF Maturity Model](software/enterprise_architecture/togaf_maturity_model.md)
-* [Enterprise Architecture Maturity Model based on CMMI CM SEI](software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
+* [OpenSource Maturity Model](examples/software/open_source/opensource_maturity_model.md)
+* [Agile Compass for maturity in agile teams](examples/software/agile/agile_compass_for_maturity_in_agile_teams.md)
+* [Agile Fluency](examples/software/agile/agile_fluency.md)
+* [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](examples/software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
+* [Agile Maturity Model (AMM) by ThoughtWorks (TW)](examples/software/agile/agile_maturity_model_by_thoughtworks.md)
+* [Enterprise Architecture: TOGAF Maturity Model](examples/software/enterprise_architecture/togaf_maturity_model.md)
+* [Enterprise Architecture Maturity Model based on CMMI CM SEI](examples/software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
 * [IT Capability Maturity Framework by the Innovation Value Institute (IVI](examples/it/it_capability_maturity_framework_by_innovation_value_institute.md)
 
 <h2><a name="maturity-model-levels">Maturity model levels</a></h2>
