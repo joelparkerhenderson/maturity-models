@@ -1,16 +1,17 @@
 # IT Capability Maturity Framework by the Innovation Value Institute (IVI)
 
+[Link to Google Form Self Assessment](https://docs.google.com/forms/d/e/1FAIpQLScLp6atgbi1UzWDZopBbk4nQPjcZDrjFN0r0qtk8usE7d1nrg/viewform)
+
 Credit:  [The IT Capability Maturity Framework™ (IT-CMF™) - Executive Overview - By Innovation Value Institute (IVI)](
 https://www.vanharen.net/Player/eKnowledge/execoverview_itcmf_web.pdf)
 
-[Link to Google Form Self Assessment](https://docs.google.com/forms/d/e/1FAIpQLScLp6atgbi1UzWDZopBbk4nQPjcZDrjFN0r0qtk8usE7d1nrg/viewform)
+Contents:
 
 * [Macro-capapbilities](#macro-capabilities)
 * [Managing IT like a Business](#managing-it-like-a-business)
 * [Managing the IT Budget](#managing-the-it-budget)
 * [Managing the IT Capability](#managing-the-it-capability)
 * [Managing IT for Business Value](#managing-it-for-business-value)
-
 
 <h2><a name="macro-capabilties">Macro Capabilities</a></h2>
 
