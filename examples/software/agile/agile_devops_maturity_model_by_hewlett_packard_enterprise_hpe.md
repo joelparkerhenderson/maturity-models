@@ -1,5 +1,7 @@
 # Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)
 
+[Link to Google Forms Self Assessment](https://docs.google.com/forms/d/e/1FAIpQLSdIa65_t8ua6Er6B5r66huSfboJQtQriwDsgD9UDd68kRrrFw/viewform)
+
 See [Building an integrated Agile/DevOps Maturity Model showing how to progress](
 https://community.hpe.com/t5/Cloud-Source/Building-an-integrated-Agile-DevOps-Maturity-Model-showing-how/ba-p/6796526)
 
