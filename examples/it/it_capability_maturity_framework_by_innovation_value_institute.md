@@ -1,6 +1,6 @@
 # IT Capability Maturity Framework by the Innovation Value Institute (IVI)
 
-[Link to Google Form Self Assessment](https://docs.google.com/forms/d/e/1FAIpQLScLp6atgbi1UzWDZopBbk4nQPjcZDrjFN0r0qtk8usE7d1nrg/viewform)
+Try it live: [Google Form Self Assessment](https://docs.google.com/forms/d/e/1FAIpQLScLp6atgbi1UzWDZopBbk4nQPjcZDrjFN0r0qtk8usE7d1nrg/viewform)
 
 Credit:  [The IT Capability Maturity Framework™ (IT-CMF™) - Executive Overview - By Innovation Value Institute (IVI)](
 https://www.vanharen.net/Player/eKnowledge/execoverview_itcmf_web.pdf)
