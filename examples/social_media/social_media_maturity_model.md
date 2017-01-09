@@ -1,5 +1,6 @@
 # Social media maturity model
 
+[Link to Google Form Self Assessment](https://docs.google.com/forms/d/e/1FAIpQLSfOHozbFWpieTsF6FCJrG9WtzfqOJFG9GuQF8Jmbwd_BHeyKA/viewform)
 
 <h2>1. Introductory stage of social media</h2>
 
