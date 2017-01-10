@@ -1,5 +1,7 @@
 # Enterprise Architecture: TOGAF Maturity Model
 
+[Link to Google Form Self Assessment}(https://docs.google.com/forms/d/e/1FAIpQLSeckLCmkPpgBWlpkZmfTIqQ8Sc_8XiBdhet8IWlJmMBbr7bBw/viewform)
+
 Credit: http://www.opengroup.org/architecture/0310wash/presents/Judith_Jones-Maturity_Models.pdf
 
 
