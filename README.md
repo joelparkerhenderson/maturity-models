@@ -17,30 +17,33 @@ See https://en.wikipedia.org/wiki/Maturity_model
 
 We welcome examples of maturity models. If you know of a maturity model, please let us know by by creating a GitHub issue and/or a pull request.
 
-Examples:
-
-* [The Six Sigma Maturity Model™](examples/six_sigma/six_sigma_maturity_model.md)
-* [Social Media Maturity Model](examples/social_media/social_media_maturity_model.md)
-* [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2006_005_001_14771.pdf)
-* [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)]
+* Agile
+  * [Agile Compass for maturity in agile teams](examples/software/agile/agile_compass_for_maturity_in_agile_teams.md)
+  * [Agile Fluency](examples/software/agile/agile_fluency.md)
+  * [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](examples/software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
+  * [Agile Maturity Model (AMM) by ThoughtWorks (TW)](examples/software/agile/agile_maturity_model_by_thoughtworks.md)
+* Capability
+  * [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2006_005_001_14771.pdf)
+  * [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)]
 (http://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14897.pdf)
+* Continuous Delivery
+  * [Continuous Delivery Maturity Model by Xebia](continuous_delivery_maturity_model_by_xebia.md)
+* Enterprise Architecture
+  * [Enterprise Architecture: TOGAF Maturity Model](examples/software/enterprise_architecture/togaf_maturity_model.md)
+  * [Enterprise Architecture Maturity Model based on CMMI CM SEI](examples/software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
+* IT: Information Technology
+  * [IT Capability Maturity Framework by the Innovation Value Institute (IVI](examples/it/it_capability_maturity_framework_by_innovation_value_institute.md)
+* Open Source
+  * [OpenSource Maturity Model](examples/software/open_source/opensource_maturity_model.md)
+* Management
+  * [Program and Portfolio Management Maturity Model by Gartner](examples/management/program_and_portfolio_management_maturity_model_by_gartner.md)
+  * [Project Portfolio Management Maturity Levels by Priority Systems](examples/management/project_portfolio_management_maturity_levels_by_priority_systems.md)
+  * [Portfolio, Programme & Project Management Maturity Model (P3M3) by OGC](examples/management/porfolio_programme_project_management_maturity_model_p3m3_by_ogc.md)
+* Six Sigma
+  * [The Six Sigma Maturity Model™](examples/six_sigma/six_sigma_maturity_model.md)
+* Social Media
+  * [Social Media Maturity Model](examples/social_media/social_media_maturity_model.md)
 
-Examples for management:
-
-* [Program and Portfolio Management Maturity Model by Gartner](examples/management/program_and_portfolio_management_maturity_model_by_gartner.md)
-* [Project Portfolio Management Maturity Levels by Priority Systems](examples/management/project_portfolio_management_maturity_levels_by_priority_systems.md)
-* [Portfolio, Programme & Project Management Maturity Model (P3M3) by OGC](examples/management/porfolio_programme_project_management_maturity_model_p3m3_by_ogc.md)
-
-Examples for software:
-
-* [OpenSource Maturity Model](examples/software/open_source/opensource_maturity_model.md)
-* [Agile Compass for maturity in agile teams](examples/software/agile/agile_compass_for_maturity_in_agile_teams.md)
-* [Agile Fluency](examples/software/agile/agile_fluency.md)
-* [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](examples/software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
-* [Agile Maturity Model (AMM) by ThoughtWorks (TW)](examples/software/agile/agile_maturity_model_by_thoughtworks.md)
-* [Enterprise Architecture: TOGAF Maturity Model](examples/software/enterprise_architecture/togaf_maturity_model.md)
-* [Enterprise Architecture Maturity Model based on CMMI CM SEI](examples/software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
-* [IT Capability Maturity Framework by the Innovation Value Institute (IVI](examples/it/it_capability_maturity_framework_by_innovation_value_institute.md)
 
 <h2><a name="maturity-model-levels">Maturity model levels</a></h2>
 
