@@ -84,7 +84,7 @@ Table of macro-capabilties and maturity levels:
 
 <h2><a name="managing-it-like-a-business">Managing IT like a Business</a></h2>
 
-1. Initial - Unmanaged 
+1. Initial - Unmanaged
 
   * There is no IT strategy
 
@@ -150,7 +150,7 @@ Table of macro-capabilties and maturity levels:
   * Cost savings are shifted to strategic investments or to the bottom line
 
   * The IT budget is in compliance with governance and with IT usage principles
-  
+
   * The IT budget is aligned with long-term business value
 
 5. Optimizing - Budget Amplification - A stable IT budget supports the growth demands of the company
@@ -159,7 +159,7 @@ Table of macro-capabilties and maturity levels:
 
   * IT intensity is actively managed and compared against other key corporate spending categories
 
-  * Budget is driven by long-term organisztion and business roadmaps
+  * Budget is driven by long-term organization and business roadmaps
 
 
 <h2><a name="managing-the-it-capability">Managing the IT Capability</a></h2>
@@ -236,4 +236,3 @@ Table of macro-capabilties and maturity levels:
   * Returns from IT-enabled investments are equal to or greater than returns from other investment types in the company
 
   * Historical data enables accurate predictions of the value of future investments
-
