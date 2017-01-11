@@ -28,6 +28,8 @@ We welcome examples of maturity models. If you know of a maturity model, please 
 (http://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14897.pdf)
 * Continuous Delivery
   * [Continuous Delivery Maturity Model by Xebia](examples/continuous_delivery/continuous_delivery_maturity_model_by_xebia.md)
+* Data Center
+  * [Data Center Automation Maturity Model by Xebia](data_center_automation_maturity_model_by_xebia.md)
 * Enterprise Architecture
   * [Enterprise Architecture: TOGAF Maturity Model](examples/software/enterprise_architecture/togaf_maturity_model.md)
   * [Enterprise Architecture Maturity Model based on CMMI CM SEI](examples/software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
