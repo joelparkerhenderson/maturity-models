@@ -15,7 +15,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Leadershipalignment</th>
+<th>Leadership<br />alignment</th>
 <td>No leadership alignment for process improvements</td>
 <td>Leadership is somewhat aligned with process improvements, but visible and active selection and review of projects are not in place. No trained and committed resources available to support projects</td>
 <td>Leadership aligned with process improvements, visible and active selection and review of projects. No resources available to support projects</td>
@@ -24,7 +24,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Leadershipapproachtoward Lean</th>
+<th>Leadership<br />approach<br />toward Lean</th>
 <td>Company executives demonstrate no understanding of the Lean approach</td>
 <td>Executives demonstrate an understanding of the Lean approach</td>
 <td>Executives demonstrate an understanding or Lean but do not have full faith</td>
@@ -33,7 +33,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Employeeinvolvement</th>
+<th>Employee<br />involvement</th>
 <td>Little or no involvement of people in process improvements</td>
 <td>Involvement of people in process improvements to some extent and people are eager to work in teams</td>
 <td>People form cross-functional teams whenever a problem arises</td>
@@ -42,7 +42,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Training/Education</th>
+<th>Training/<br />Education</th>
 <td>No training on Lean tools or quality improvement tools, methodologies or even concepts</td>
 <td>Few team members have heard about different concepts of improvement methodology but not formally trained</td>
 <td>Team members are trained in some basic concepts like 5S, Lean overview, 7 QC tools</td>
@@ -51,7 +51,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Processcapability</th>
+<th>Process<br />capability</th>
 <td>The area of assessment has sigma level less than or equal to 1, for its most critical process. Cpk is less than or equal to 0.33</td>
 <td>The area has sigma level greater than 1 but less than or equal to 2. Cpk lies between 0.33 and 0.66</td>
 <td>The area has sigma level greater than 2 but less than or equal to 4. Cpk lies between 0.66 and 1.33</td>
@@ -60,7 +60,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Approachto errors</th>
+<th>Approach<br />to errors</th>
 <td>Errors will happen; inspect them out; accept cost of scrap and rework; deal with customer complaints</td>
 <td>Although errors happen but some initial thought prevails to implement or design error-free systems using Lean</td>
 <td>Inspection and control only; some data collection to regulate variance</td>
@@ -69,7 +69,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Data drivenproblem solving</th>
+<th>Data driven<br />problem solving</th>
 <td>Insufficient data available for key processes needing improvement</td>
 <td>Organization does not use data driven problem solving methods to a great extent. Data collection processes are not systematic and in place</td>
 <td>Org uses data driven problem solving methods. Data collection is systematic and efficient, although MSA not done extensively</td>
@@ -87,7 +87,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Standardwork</th>
+<th>Standard<br />work</th>
 <td>No standard work procedures exist. No understanding of the connection between CI and work standards</td>
 <td>Some standard work procedures exist to show how the process made, materials flow and administrative processes function but are not current nor displayed. Thinking of internal customers begins</td>
 <td>All standard work procedures can be seen in most areas. Process owners know the what, when, where, why and how of their areas. Ownership taken to use standards and keep them current</td>
@@ -96,7 +96,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Value streammapping</th>
+<th>Value stream<br />mapping</th>
 <td>No process is mapped according to the value stream</td>
 <td>An understanding of VSM is evident. Some attempts have been made to map a simple process</td>
 <td>A number of people have been trained in VSM, some processes mapped. No improvements</td>
@@ -105,7 +105,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Accountingsupportto Lean</th>
+<th>Accounting<br />support<br />to Lean</th>
 <td>Accounting system provides basic financial data based on cost accounting. There is little awareness of accounting&#8217;s role in support Lean initiatives</td>
 <td>There is an awareness that accounting has a role in Lean. Some staff has been trained and initial analysis has been undertaken</td>
 <td>All key staff has been trained. Pilot project has begun; department targeting waste in its processes</td>
