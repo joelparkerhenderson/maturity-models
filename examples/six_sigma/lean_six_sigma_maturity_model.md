@@ -78,7 +78,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Methodologies of continuous improvement (CI)</th>
+<th>Methodologies<br />of continuous<br />improvement (CI)</th>
 <td>No formalized improvement methods exist. No evidence of employees, or managers concerned about CI</td>
 <td>Improvements reactive &#8211; usually come from management, engineering, supervision or when a customer complaint is received. Some training started in problem solving</td>
 <td>Some improvement methodology evident; teams sometimes used to develop solutions. CI training supported by management</td>
@@ -96,7 +96,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>Value stream<br />mapping</th>
+<th>Value<br />stream<br />mapping</th>
 <td>No process is mapped according to the value stream</td>
 <td>An understanding of VSM is evident. Some attempts have been made to map a simple process</td>
 <td>A number of people have been trained in VSM, some processes mapped. No improvements</td>
@@ -114,7 +114,7 @@ Credit: https://www.isixsigma.com/new-to-six-sigma/getting-started/are-you-ready
 </tr>
 
 <tr>
-<th>5S/House-keeping</th>
+<th>5S/<br />House-keeping</th>
 <td>Disruptive and messy, no formal workplace organization standard in place. No order, area untidy, materials have multiple locations</td>
 <td>Company aware of 5S principles but no training underway. Non-routine cleaning takes place</td>
 <td>Most areas have begun 5S. Materials have permanent positions, cleaning schedule followed. Teams investigate root causes of disorder. Employees participate, support, understand and do most cleaning</td>
