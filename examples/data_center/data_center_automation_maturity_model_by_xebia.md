@@ -39,8 +39,7 @@ Credit: https://www.xebia.com/datacenter-automation
 <td>Multiple single points of failure; repaired manually.</td>
 <td>Backup/restore procedures validated periodically.</td>
 <td>Critical components are redundant.</td>
-<td>Backup/restore procedures are automated and validated frequently.</td>
-<td>All components are redundant.</td>
+<td>All components are redundant. Backup/restore procedures are automated and validated frequently.</td>
 <td>Auto-healing.</td>
 <td>Planned and unplanned, automated resiliency test; predictive autoscaling.</td>
 </tr>
