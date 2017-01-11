@@ -42,6 +42,7 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [Project Portfolio Management Maturity Levels by Priority Systems](examples/management/project_portfolio_management_maturity_levels_by_priority_systems.md)
   * [Portfolio, Programme & Project Management Maturity Model (P3M3) by OGC](examples/management/porfolio_programme_project_management_maturity_model_p3m3_by_ogc.md)
 * Six Sigma
+  * [Lean Six Sigma Maturity Model](examples/six_sigma/lean_six_sigma_maturity_model.md)
   * [The Six Sigma Maturity Model™](examples/six_sigma/six_sigma_maturity_model.md)
 * Social Media
   * [Social Media Maturity Model](examples/social_media/social_media_maturity_model.md)
