@@ -61,7 +61,7 @@ For example, a maturity model can have levels 1-3, generally corresponding to th
 For example, a maturity model can have levels 0-5, generally corresponding to these meanings:
 
 * 0. None, Never, Novice
-* 1. Informal, Implicit, Irregular, Inconsistent, Individual Usage
+* 1. Initial, Informal, Implicit, Irregular, Inconsistent, Individual Usage
 * 2. Developing, Describing, Department Usage
 * 3. Defining, Detailing, Disciplined, Distributed Usage
 * 4. Managing, Measuring, Mainstreaming, Majority Usage
