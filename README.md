@@ -8,6 +8,7 @@ See https://en.wikipedia.org/wiki/Maturity_model
 
 * [Maturity model examples](#maturity-model-examples)
 * [Maturity model levels](#maturity-model-levels)
+* [Maturity model process perspectives](#maturity-model-process-perspectives)
 * [Top-down vs. bottom-up](#top-down-vs-bottom-up)
 * [Rebuttals to maturity models](#rebuttals-to-maturity-models)
 * [Related assessment metrics](#related-assessment-metrics)
@@ -60,12 +61,25 @@ For example, a maturity model can have levels 1-3, generally corresponding to th
 
 For example, a maturity model can have levels 0-5, generally corresponding to these meanings:
 
-* 0. None, Never, Novice
+* 0. None, Never, Negligible, Not Applicable
 * 1. Initial, Informal, Implicit, Irregular, Inconsistent, Individual Usage
 * 2. Developing, Describing, Department Usage
-* 3. Defining, Detailing, Disciplined, Distributed Usage
-* 4. Managing, Measuring, Mainstreaming, Majority Usage
-* 5. Ongoing, Optimizing, Orchestrating, Opportunity-creating, Organization-wide Usage
+* 3. Standardizing, Specifying, Scaling, Service-oriented, Segment Usage
+* 4. Managing, Measuring, Mainstreaming, Mission-oriented, Mass Usage
+* 5. Optimizing, Orchestrating, Ongoing, Opportunity-oriented, Organization Usage
+
+
+<h2><a name="maturity-model-process-perspectives">Maturity model process perspectives</a></h2>
+
+P3M3® describes process perspectives. These can be assessed at all maturity model levels.
+
+* Control Management: how well the organization maintains control of the initiatives currently ‘in flight’.
+* Benefits Management: how well the organization defines, tracks and ensures achievement of performance improvement from the investment.
+* Financial Management: how well the organization manages and controls the investment through business cases and budgetary control.
+* Stakeholder Management: how well the initiatives engage with and communicate with the external environment to minimize the negative implications engagement can achieve.
+* Organizational Governance: how well the organization controls the initiation and alignment of its investments with the corporate strategy.
+* Risk Management: how well the organization focuses on and mitigates the impact of threats and the leveraging of opportunities.
+* Resource Management: how well the organization develops its own talent and utilizes the opportunities from the supply chain to overcome peaks and troughs.
 
 
 <h2><a name="top-down-vs-bottom-up">Top-down vs. bottom-up</a></h2>
