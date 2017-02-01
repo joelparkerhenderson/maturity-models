@@ -125,7 +125,7 @@ Porfolio Programme Project Management (PPPM), best practices, maturity model mat
 
 * Amazon creating AWS, Google creating GCS, Facebook creating React, Netflix creating many open source projects.
 
-* Orchestrating with tools such as Kubernetes,
+* Orchestrating among multiple clouds, internal and external, with tools such as Kubernetes and Mesos.
 
 <b>How to improve:</b>
 
