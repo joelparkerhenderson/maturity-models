@@ -49,7 +49,7 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 <b>Ideas to improve:</b>
 
-* Technical: Develop IaC code in ways that align with your teams' project code, such as doing code reviews, roadmap planning, idempotency testing, etc. Get familiar with all of the examples above: AWS, Docker, Ansible, Kubernetes, GoCD< Heroku; even if you choose to use alternatives to these, the learning will transfer well.
+* Technical: Develop IaC code in ways that align with your teams' project code, such as doing code reviews, roadmap planning, idempotency testing, etc. Get familiar with all of the examples above: AWS, Docker, Ansible, Kubernetes, GoCD, Heroku; even if you choose to use alternatives to these, the learning will transfer well.
 
 * Social: Share IaC code with other teams, get feedback, and improve the code and all its related capabilities for collaboration, documentation, verification, etc.
 
