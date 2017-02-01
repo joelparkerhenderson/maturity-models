@@ -35,6 +35,7 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [Enterprise Architecture: TOGAF Maturity Model](examples/software/enterprise_architecture/togaf_maturity_model.md)
   * [Enterprise Architecture Maturity Model based on CMMI CM SEI](examples/software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
 * Infrastructure as Code
+  * [Infrastructure as Code maturity model by Joel Parker Henderson](infrastructure_as_code/infrastructure_as_code_maturity_model_by_joel_parker_henderson.md)
   * [Infrastructure as Code maturity model by Stafford](infrastructure_as_code/infrastructure_as_code_maturity_model_by_stafford.md)
 * IT: Information Technology
   * [IT Capability Maturity Framework by the Innovation Value Institute (IVI)](examples/it/it_capability_maturity_framework_by_innovation_value_institute.md)
