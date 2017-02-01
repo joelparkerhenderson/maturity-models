@@ -81,7 +81,7 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 * Social: Explicity plan for good governance. Governance includes technical areas such as versioning and release management, team areas such as five-why root cause analysis and blameless retrospectives, and management areas such as budgeting and approvals.
 
 
-## Level 4: Managing & Measuring for Missions
+## Level 4: Managing & Measuring & Missions
 
 * Infrastructure is managed and measured in concert with explicit mission statements. Good candidates are [OKRs (Objectives and Key Results)](https://github.com/joelparkerhenderson/objectives_and_key_results), [KPI (Key Performance Indicator) metrics](ttps://github.com/joelparkerhenderson/key_performance_indicator), and a [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard).
 
@@ -109,7 +109,7 @@ Porfolio Programme Project Management (PPPM), best practices, maturity model mat
 * Social: Plan IaC in terms of long-term management and mainstream usage, including roadmaps for lifecycle management, funding management, communication management, value stream mapping, and governance management.
 
 
-## Level 5: Optimizing & Orchestrating for Opportunities
+## Level 5: Optimizing & Orchestrating & Opportunities
 
 * Infrastructure research and development is funded to create new products and services, and also new business opportunities.
 
