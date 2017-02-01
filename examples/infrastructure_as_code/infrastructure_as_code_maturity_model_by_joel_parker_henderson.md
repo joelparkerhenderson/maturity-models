@@ -21,16 +21,17 @@ Examples:
 
 Ideas to improve:
 
-* Shift from using hand-rolled one-off installations toward using package managers such as apm, apt, brew, melpa, gem, pip, yum.
+* Shift from using hand-rolled one-off installations toward using package managers such as apm, apt, brew, choco melpa, gem, pip, yum, as well as configuration management such as config files and dot files.
 
-* Learn about any popular mainstream configuration tool, such as Ansible, Salt, Puppet, Chef.
+* Learn about any popular mainstream configuration tools, such as Ansible, Salt, Puppet, Chef.
+
 
 
 ## Level 2: Developing, Describing, Departmental Usage
 
 Level 2 is Developing, Describing, Department-wide Usage.
 
-* Infrastructure is developing, typically because of a team's need.
+* Infrastructure is developing, typically because of a team's need. Typical software at this level often includes cloud services (e.g. AWS), containerization (e.g. Docker), configuration management (e.g. Ansible), orchestration tooling (e.g. Kubernetes), continuous delivery software (e.g. GoCD), and potentially platform as a service offerings (e.g. Heroku).
 
 * Teammates from the department  are talking about IaC, and working on ways to use IaC to help the department across multiple projects.
 
@@ -44,10 +45,9 @@ Examples:
 
 Ideas to improve:
 
-* Technical: Develop IaC code in ways that align with your teams' project code, such as doing code reviews, roadmap planning, idempotency testing, etc.
+* Technical: Develop IaC code in ways that align with your teams' project code, such as doing code reviews, roadmap planning, idempotency testing, etc. Get familiar with all of the examples above: AWS, Docker, Ansible, Kubernetes, GoCD< Heroku; even if you choose to use alternatives to these, the learning will transfer well.
 
 * Social: Share IaC code with other teams, get feedback, and improve the code and all its related capabilities for collaboration, documentation, verification, etc.
-
 
 
 
@@ -63,7 +63,7 @@ Level 3 is Standardizing, Specifying, Scaling, Service-oriented, Segment Usage
 
 Examples:
 
-* Typically projects can be one-button deployed, including the creation of related resources, databases, networks, addresses, etc.
+* Typically projects can be one-button deployed, including just-in-time as-needed creation of related resources, databases, networks, addresses, etc.
 
 * IaC is in use beyond just the IT department; this may include self-service tools, such as setting up new laptops, as well as significant business tools, such as IT-business teams that can configure and deploy new services independently of IT system adminsitrators.
 
@@ -78,9 +78,9 @@ How to improve:
 
 * Level 4 is Managing, Measuring, Mainstreaming, Mission-oriented, Mass-scale Usage.
 
-* Infrastructure is managed and measured in concert with explicit mission statements, especially OKRs (Objectives and Key Results) and KPIs (Key Performance Indicators).
+* Infrastructure is managed and measured in concert with explicit mission statements. Good candidates are [OKRs (Objectives and Key Results)](https://github.com/joelparkerhenderson/objectives_and_key_results), [KPI (Key Performance Indicator) metrics](ttps://github.com/joelparkerhenderson/key_performance_indicator), and a [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard).
 
-* Team members can easily use scoreboards, dashboards, metrics, measurments, and similar data-driven tooling to run, upgrade, and verify IaC code.
+* Team members can easily use scoreboards, dashboards, metrics, measurments, and similar data-driven tooling to run, upgrade, and verify IaC code. IT executive leadership can easily use rollup systems to prove IT-business capabilities and cost justifications.
 
 * Code quality is consistently measured and tested using continuous delivery tooling, automated code quality vetting, scaling benchmarking, etc.
 
