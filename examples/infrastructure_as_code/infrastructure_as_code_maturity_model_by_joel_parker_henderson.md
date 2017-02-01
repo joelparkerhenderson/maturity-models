@@ -5,7 +5,7 @@ Infrastructure as Code (IaC) is the process of managing and provisioning computi
 See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 
-## Level 1: Initial & Informal
+## Level 1: Initial + Informal
 
 * Infrastructure as Code is in initial stages, including areas such as assessments, a trial project, a pilot, a prototype.
 
@@ -28,7 +28,7 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 * Learn about any popular mainstream configuration tools, such as Ansible, Salt, Puppet, Chef.
 
 
-## Level 2: Developing & Describing
+## Level 2: Developing + Describing
 
 * Infrastructure is developing, typically because of a team's need. Typical software at this level often includes cloud services (e.g. AWS), containerization (e.g. Docker), configuration management (e.g. Ansible), orchestration tooling (e.g. Kubernetes), continuous delivery software (e.g. GoCD), and potentially platform as a service offerings (e.g. Heroku).
 
@@ -54,7 +54,7 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 * Social: Share IaC code with other teams, get feedback, and improve the code and all its related capabilities for collaboration, documentation, verification, etc.
 
 
-## Level 3: Standardizing & Scaling
+## Level 3: Standardizing + Scaling
 
 * Infrastructure is standardizing, typically thanks to teams creating specifications, sharable code, source code repositories.
 
@@ -81,7 +81,7 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 * Social: Explicity plan for good governance. Governance includes technical areas such as versioning and release management, team areas such as five-why root cause analysis and blameless retrospectives, and management areas such as budgeting and approvals.
 
 
-## Level 4: Managing & Measuring & Missions
+## Level 4: Managing + Measuring + Missions
 
 * Infrastructure is managed and measured in concert with explicit mission statements. Good candidates are [OKRs (Objectives and Key Results)](https://github.com/joelparkerhenderson/objectives_and_key_results), [KPI (Key Performance Indicator) metrics](https://github.com/joelparkerhenderson/key_performance_indicator), and a [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard).
 
@@ -109,7 +109,7 @@ Porfolio Programme Project Management (PPPM), best practices, maturity model mat
 * Social: Plan IaC in terms of long-term management and mainstream usage, including roadmaps for lifecycle management, funding management, communication management, value stream mapping, and governance management.
 
 
-## Level 5: Optimizing & Orchestrating & Opportunities
+## Level 5: Optimizing + Orchestrating + Opportunities
 
 * Infrastructure research and development is funded to create new products and services, and also new business opportunities.
 
