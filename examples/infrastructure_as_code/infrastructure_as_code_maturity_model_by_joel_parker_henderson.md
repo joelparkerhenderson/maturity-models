@@ -3,9 +3,9 @@
 Free, open source, Creative Commons License.
 
 
-## Level 1: Initial, Informal, Implicit, Irregular, Inconsistent, Individual Usage
+## Level 1: Initial
 
-Level 1 is Initial, Informal, Implicit, Irregular, Inconsistent, Individual Usage.
+<b>Level 1 is Initial, Informal, Implicit, Irregular, Inconsistent, Individual Usage.</b>
 
 * Infrastructure as Code is in initial stages, including areas such as assessments, a trial project, a pilot, a prototype.
 
@@ -13,13 +13,13 @@ Level 1 is Initial, Informal, Implicit, Irregular, Inconsistent, Individual Usag
 
 * Code quality of the IaC code tends to be hand-rolled, or hand-tested, or hand-tooled.
 
-Examples:
+<b>Examples:</b>
 
 * Sign up for Amazon Web Services
 
 * Write a shell script that check a server's uptime
 
-Ideas to improve:
+<b>Ideas to improve:</b>
 
 * Shift from using hand-rolled one-off installations toward using package managers such as apm, apt, brew, choco melpa, gem, pip, yum, as well as configuration management such as config files and dot files.
 
@@ -27,9 +27,9 @@ Ideas to improve:
 
 
 
-## Level 2: Developing, Describing, Departmental Usage
+## Level 2: Developing
 
-Level 2 is Developing, Describing, Department-wide Usage.
+<b>Level 2 is Developing, Describing, Department-wide Usage.</b>
 
 * Infrastructure is developing, typically because of a team's need. Typical software at this level often includes cloud services (e.g. AWS), containerization (e.g. Docker), configuration management (e.g. Ansible), orchestration tooling (e.g. Kubernetes), continuous delivery software (e.g. GoCD), and potentially platform as a service offerings (e.g. Heroku).
 
@@ -37,13 +37,13 @@ Level 2 is Developing, Describing, Department-wide Usage.
 
 * Code quality is starting to use automated tests for the IaC code, not just any application code.
 
-Examples:
+<b>Examples:</b>
 
 * There are at least a few projects where a developer can commit a line of code, and the code flows into production, by using continuous integration, continuous delivery, and optionally capabilities for feature flags, throttle releases (blue/green, go/no, canary releases, etc.).
 
 * The department shares IaC code and does IaC collaboration using source code repositories, and optionally capabilities for chat, help, documentation, wikis, planning, and the like.
 
-Ideas to improve:
+<b>Ideas to improve:</b>
 
 * Technical: Develop IaC code in ways that align with your teams' project code, such as doing code reviews, roadmap planning, idempotency testing, etc. Get familiar with all of the examples above: AWS, Docker, Ansible, Kubernetes, GoCD< Heroku; even if you choose to use alternatives to these, the learning will transfer well.
 
@@ -53,7 +53,7 @@ Ideas to improve:
 
 ## Level 3: Standardizing
 
-Level 3 is Standardizing, Specifying, Scaling, Service-oriented, Segment Usage
+<b>Level 3 is Standardizing, Specifying, Scaling, Service-oriented, Segment Usage</b>
 
 * Infrastructure is standardizing, typically thanks to teams creating specifications, sharable code, source code repositories.
 
@@ -61,13 +61,13 @@ Level 3 is Standardizing, Specifying, Scaling, Service-oriented, Segment Usage
 
 * Code quality aims toward service-oriented capabilities, such as APIs, discoverability, mixability.
 
-Examples:
+<b>Examples:</b>
 
 * Typically projects can be one-button deployed, including just-in-time as-needed creation of related resources, databases, networks, addresses, etc.
 
 * IaC is in use beyond just the IT department; this may include self-service tools, such as setting up new laptops, as well as significant business tools, such as IT-business teams that can configure and deploy new services independently of IT system adminsitrators.
 
-How to improve:
+<b>How to improve:</b>
 
 * Technical: Learn how to modularize Iac code and distribute it, such as by using package managers, modules, libraries, functional decomposition, idempotency testing, hot reloads, etc.
 
@@ -76,7 +76,7 @@ How to improve:
 
 ## Level 4: Managing
 
-* Level 4 is Managing, Measuring, Mainstreaming, Mission-oriented, Mass-scale Usage.
+<b>Level 4 is Managing, Measuring, Mainstreaming, Mission-oriented, Mass-scale Usage.</b>
 
 * Infrastructure is managed and measured in concert with explicit mission statements. Good candidates are [OKRs (Objectives and Key Results)](https://github.com/joelparkerhenderson/objectives_and_key_results), [KPI (Key Performance Indicator) metrics](ttps://github.com/joelparkerhenderson/key_performance_indicator), and a [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard).
 
@@ -84,14 +84,14 @@ How to improve:
 
 * Code quality is consistently measured and tested using continuous delivery tooling, automated code quality vetting, scaling benchmarking, etc.
 
-Examples:
+<b>Examples:</b>
 
 * Many projects are one-button initiated, end-to-end, from sunrise to sunset. This can include Application Lifcycle Management (ALM),
 Porfolio_ Pogramme_Project_Management (PPPM), best practices, maturity model matching, etc.
 
 * IaC tooling emits metrics, which in turn are useful for Application Performance Monitoring (APM), synthetic monitoring, debugging, and capability growth planning.
 
-How to improve:
+<b>How to improve:</b>
 
 * Technical: improve code so it's suitable for mainstream usage. This includes thorough test coverage for corner cases, failure modes, chaos interruptions, outage mitigations.
 
@@ -100,19 +100,19 @@ How to improve:
 
 ## Level 5: Optimizing
 
-* Level 5 is Optimizing, Orchestrating, Ongoing, Opportunity-oriented, Organization-wide Usage.
+<b>Level 5 is Optimizing, Orchestrating, Ongoing, Opportunity-oriented, Organization-wide Usage.</b>
 
 * Infrastructure research and development is funded to create new products and services, and also new business opportunities.
 
 * Code quality is consistently able evolve, and welcomes contributions, discussions, and usage by the entire organization, and potentially its partners, vendors, customers, and the public.
 
-Examples:
+<b>Examples:</b>
 
 * Amazon creating AWS, Google creating GCS, Facebook creating React, Netflix creating many open source projects.
 
 * Orchestrating with tools such as Kubernetes,
 
-How to improve:
+<b>How to improve:</b>
 
 * Create code that inspires people to grow more IaC capabilities. This includes publicizing the code, such as blogging about it, creating help channels for it, and teaching how to use it.
 
