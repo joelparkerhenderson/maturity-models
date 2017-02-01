@@ -8,6 +8,12 @@ See Wikipedia:
 * [DevOps](https://en.wikipedia.org/wiki/DevOps)
 * [Maturity model](https://en.wikipedia.org/wiki/Maturity_model)
 
+
+## Level 0: None
+
+*  No IaC, or negligible use, or not applicable.
+
+
 ## Level 1: Initial + Informal
 
 * Infrastructure as Code is in initial stages, including areas such as assessments, a trial project, a pilot, a prototype.
