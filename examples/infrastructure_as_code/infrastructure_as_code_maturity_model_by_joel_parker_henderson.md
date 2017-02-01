@@ -13,6 +13,8 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 * Code quality of the IaC code tends to be hand-rolled, or hand-tested, or hand-tooled.
 
+* Application planning focuses on shipping code.
+
 <b>Examples:</b>
 
 * Use cloud services, such as Amazon Web Services.
@@ -35,6 +37,9 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 * Code quality is starting to use automated tests for the IaC code, not just any application code.
 
 * IaC proponents develop and describe cross-functional areas, such as Cost (reduction), Speed (execution), and Risk (mitigation).
+
+* Application planning includes developer operations (devops), such as continuous integration, deployment pipelines as an integral part of the application delivery process, and quality assurance that covers the entire delivery pipeline.
+
 
 <b>Examples:</b>
 
@@ -61,6 +66,8 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 * IaC proponents standardize cross-functional areas, such as Cost (reduction), Speed (execution), and Risk (mitigation). The standardization incldues specific tradeoffs, such as the cost/benefit of faster deployments, or the risk/reward of security verfications.
 
+* Application planning includes design for self-standardization and/or self-scaling.
+
 <b>Examples:</b>
 
 * Typically projects can be one-button deployed, including just-in-time as-needed creation of related resources, databases, networks, addresses, etc.
@@ -86,6 +93,7 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 * IaC proponents prove success in cross-functional areas, such as Cost (reduction), Speed (execution), and Risk (mitigation). The proof includes data for cost/benefit of faster deployments, risk/reward of security verifications, etc.
 
+* Application planning includes design for self-management and/or self-measurement.
 
 <b>Examples:</b>
 
@@ -110,6 +118,8 @@ Porfolio Programme Project Management (PPPM), best practices, maturity model mat
 * The approach to IaC is orchestral and environmentatlly aware. The orchestral approach focuses on why the configuration should be a certain way in consideration of all the co-relationships and co-dependencies of multiple applications running on the same infrastructure typically found in production.
 
 * IaC proponents optimize success in cross-functional areas, such as Cost (reduction), Speed (execution), and Risk (mitigation). The optimization includes data for cost/benefit of faster deployments, risk/reward of security verifications, etc. The optimization also includes strategic look-ahead to drive organizational investment in these cross-functional areas.
+
+* Application planning includes design for self-optimization and/or self-healing.
 
 <b>Examples:</b>
 
