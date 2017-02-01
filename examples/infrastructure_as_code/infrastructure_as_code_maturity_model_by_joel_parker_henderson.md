@@ -34,11 +34,11 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 * Teammates from the department  are talking about IaC, and working on ways to use IaC to help the department across multiple projects.
 
-* Code quality is starting to use automated tests for the IaC code, not just any application code.
+* Code quality is starting to use automated tests for the IaC code, in addition to application code.
 
 * IaC proponents develop and describe cross-functional areas, such as Cost (reduction), Speed (execution), and Risk (mitigation).
 
-* Application planning includes developer operations (devops), such as continuous integration, deployment pipelines as an integral part of the application delivery process, and quality assurance that covers the entire delivery pipeline.
+* Application planning includes documentation, ideally orienting toward developing various cookbooks, recipies, manifests, blueprints, as well as developer operations (devops) such as continuous integration, deployment pipelines as an integral part of the application delivery process, and quality assurance that covers the entire delivery pipeline.
 
 
 <b>Examples:</b>
@@ -66,7 +66,7 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 * IaC proponents standardize cross-functional areas, such as Cost (reduction), Speed (execution), and Risk (mitigation). The standardization incldues specific tradeoffs, such as the cost/benefit of faster deployments, or the risk/reward of security verfications.
 
-* Application planning includes design for self-standardization and/or self-scaling.
+* Application planning includes design for self-standardization and/or self-scaling, as well as devops techniques such as immutable infrastructure, phoenix servers, IaaS, PaaS, and iPaaS.
 
 <b>Examples:</b>
 
