@@ -2,7 +2,10 @@
 
 Infrastructure as Code (IaC) is the process of managing and provisioning computing infrastructure (processes, bare-metal servers, virtual servers, etc.) and their configuration through machine-processable files (source code, scripts, declarative files, dotfiles, etc.) rather than physical hardware configuration or the use of interactive tools.
 
-See https://en.wikipedia.org/wiki/Infrastructure_as_Code
+See Wikipedia:
+* [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)
+* [Continuous configuration automatiion (CCA)](https://en.wikipedia.org/wiki/Continuous_configuration_automation)
+* [DevOps](https://en.wikipedia.org/wiki/DevOps)
 
 
 ## Level 1: Initial + Informal
