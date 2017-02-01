@@ -34,6 +34,8 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 * Code quality is starting to use automated tests for the IaC code, not just any application code.
 
+* IaC proponents develop and describe cross-functional areas, such as Cost (reduction), Speed (execution), and Risk (mitigation).
+
 <b>Examples:</b>
 
 * There are at least a few projects where a developer can commit a line of code, and the code flows into production, by using continuous integration, continuous delivery, and optionally capabilities for feature flags, throttle releases (blue/green, go/no, canary releases, etc.).
@@ -57,11 +59,13 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 * The approach to IaC is generally imperative and/or procedural. The imperative approach focuses on how the infrastructure is to be changed to meet the target configuration. The imperative approach defines specific commands that need to be executed to end with the desired conclusion.
 
+* IaC proponents standardize cross-functional areas, such as Cost (reduction), Speed (execution), and Risk (mitigation). The standardization incldues specific tradeoffs, such as the cost/benefit of faster deployments, or the risk/reward of security verfications.
+
 <b>Examples:</b>
 
 * Typically projects can be one-button deployed, including just-in-time as-needed creation of related resources, databases, networks, addresses, etc.
 
-* IaC is in use beyond just the IT department; this may include self-service tools, such as setting up new laptops, as well as significant business tools, such as IT-business teams that can configure and deploy new services independently of IT system adminsitrators.
+* IaC is in use beyond just the IT department; this may include self-service tools, such as setting up new laptops, as well as significant business tools, such as IT-business teams that can configure and deploy new services independently of IT system administrators.
 
 <b>How to improve:</b>
 
@@ -79,6 +83,8 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 * Code quality is consistently measured and tested using continuous delivery tooling, automated code quality vetting, scaling benchmarking, etc.
 
 * The approach to IaC is generally declarative and/or functional. The declarative approach focuses on what the eventual target configuration should be. The declarative approach defines the desired state, and the system executes what needs to happen to achieve that desired state.
+
+* IaC proponents prove success in cross-functional areas, such as Cost (reduction), Speed (execution), and Risk (mitigation). The proof includes data for cost/benefit of faster deployments, risk/reward of security verifications, etc.
 
 
 <b>Examples:</b>
@@ -102,6 +108,8 @@ Porfolio Programme Project Management (PPPM), best practices, maturity model mat
 * Code quality is consistently able evolve, and welcomes contributions, discussions, and usage by the entire organization, and potentially its partners, vendors, customers, and the public.
 
 * The approach to IaC is orchestral and environmentatlly aware. The orchestral approach focuses on why the configuration should be a certain way in consideration of all the co-relationships and co-dependencies of multiple applications running on the same infrastructure typically found in production.
+
+* IaC proponents optimize success in cross-functional areas, such as Cost (reduction), Speed (execution), and Risk (mitigation). The optimization includes data for cost/benefit of faster deployments, risk/reward of security verifications, etc. The optimization also includes strategic look-ahead to drive organizational investment in these cross-functional areas.
 
 <b>Examples:</b>
 
