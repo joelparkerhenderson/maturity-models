@@ -1,6 +1,8 @@
 # Infrastructure as Code (IaC) maturity model by Joel Parker Henderson
 
-Free, open source, Creative Commons License.
+Infrastructure as Code (IaC) is the process of managing and provisioning computing infrastructure (processes, bare-metal servers, virtual servers, etc.) and their configuration through machine-processable files (source code, scripts, declarative files, dotfiles, etc.) rather than physical hardware configuration or the use of interactive tools.
+
+See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 
 ## Level 1: Initial & Informal
@@ -53,6 +55,8 @@ Free, open source, Creative Commons License.
 
 * Code quality aims toward service-oriented capabilities, such as APIs, discoverability, mixability.
 
+* The approach to IaC is generally imperative and/or procedural. The imperative approach focuses on how the infrastructure is to be changed to meet the target configuration. The imperative approach defines specific commands that need to be executed to end with the desired conclusion.
+
 <b>Examples:</b>
 
 * Typically projects can be one-button deployed, including just-in-time as-needed creation of related resources, databases, networks, addresses, etc.
@@ -74,6 +78,9 @@ Free, open source, Creative Commons License.
 
 * Code quality is consistently measured and tested using continuous delivery tooling, automated code quality vetting, scaling benchmarking, etc.
 
+* The approach to IaC is generally declarative and/or functional. The declarative approach focuses on what the eventual target configuration should be. The declarative approach defines the desired state, and the system executes what needs to happen to achieve that desired state.
+
+
 <b>Examples:</b>
 
 * Many projects are one-button initiated, end-to-end, from sunrise to sunset. This can include Application Lifcycle Management (ALM),
@@ -93,6 +100,8 @@ Porfolio Programme Project Management (PPPM), best practices, maturity model mat
 * Infrastructure research and development is funded to create new products and services, and also new business opportunities.
 
 * Code quality is consistently able evolve, and welcomes contributions, discussions, and usage by the entire organization, and potentially its partners, vendors, customers, and the public.
+
+* The approach to IaC is orchestral and environmentatlly aware. The orchestral approach focuses on why the configuration should be a certain way in consideration of all the co-relationships and co-dependencies of multiple applications running on the same infrastructure typically found in production.
 
 <b>Examples:</b>
 
