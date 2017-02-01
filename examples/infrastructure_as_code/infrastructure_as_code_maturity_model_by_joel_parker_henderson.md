@@ -83,7 +83,7 @@ See https://en.wikipedia.org/wiki/Infrastructure_as_Code
 
 ## Level 4: Managing & Measuring & Missions
 
-* Infrastructure is managed and measured in concert with explicit mission statements. Good candidates are [OKRs (Objectives and Key Results)](https://github.com/joelparkerhenderson/objectives_and_key_results), [KPI (Key Performance Indicator) metrics](ttps://github.com/joelparkerhenderson/key_performance_indicator), and a [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard).
+* Infrastructure is managed and measured in concert with explicit mission statements. Good candidates are [OKRs (Objectives and Key Results)](https://github.com/joelparkerhenderson/objectives_and_key_results), [KPI (Key Performance Indicator) metrics](https://github.com/joelparkerhenderson/key_performance_indicator), and a [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard).
 
 * Team members can easily use scoreboards, dashboards, metrics, measurments, and similar data-driven tooling to run, upgrade, and verify IaC code. IT executive leadership can easily use rollup systems to prove IT-business capabilities and cost justifications.
 
