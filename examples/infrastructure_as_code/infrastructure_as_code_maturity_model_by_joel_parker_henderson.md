@@ -77,7 +77,7 @@ Free, open source, Creative Commons License.
 <b>Examples:</b>
 
 * Many projects are one-button initiated, end-to-end, from sunrise to sunset. This can include Application Lifcycle Management (ALM),
-Porfolio_ Pogramme_Project_Management (PPPM), best practices, maturity model matching, etc.
+Porfolio Programme Project Management (PPPM), best practices, maturity model matching, etc.
 
 * IaC tooling emits metrics, which in turn are useful for Application Performance Monitoring (APM), synthetic monitoring, debugging, and capability growth planning.
 
