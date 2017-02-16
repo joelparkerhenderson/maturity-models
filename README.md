@@ -65,11 +65,11 @@ For example, a maturity model can have levels 1-3, generally corresponding to th
 For example, a maturity model can have levels 0-5, generally corresponding to these meanings:
 
 * 0. None, Never, Negligible, Not Applicable
-* 1. Initial, Informal, Implicit, Irregular, Inconsistent, Individual Usage
-* 2. Developing, Describing, Department Usage
-* 3. Standardizing, Specifying, Scaling, Service-oriented, Segment Usage
-* 4. Managing, Measuring, Mainstreaming, Mission-oriented, Mass Usage
-* 5. Optimizing, Orchestrating, Ongoing, Opportunity-oriented, Organization Usage
+* 1. Initial, Informal, Implicit, Irregular, Inconsistent, Individual-usage.
+* 2. Developing, Describing, Duplicating, Department-usage.
+* 3. Standardizing, Specifying, Scaling, Service-oriented, Segment-usage
+* 4. Managing, Measuring, Mainstreaming, Mission-oriented, Mass-usage
+* 5. Optimizing, Orchestrating, Ongoing, Opportunity-oriented, Organization-usage
 
 
 <h2><a name="maturity-model-process-perspectives">Maturity model process perspectives</a></h2>
