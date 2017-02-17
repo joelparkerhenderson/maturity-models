@@ -48,6 +48,8 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [Program and Portfolio Management Maturity Model by Gartner](examples/management/program_and_portfolio_management_maturity_model_by_gartner.md)
   * [Project Portfolio Management Maturity Levels by Priority Systems](examples/management/project_portfolio_management_maturity_levels_by_priority_systems.md)
   * [Portfolio, Programme & Project Management Maturity Model (P3M3) by OGC](examples/management/porfolio_programme_project_management_maturity_model_p3m3_by_ogc.md)
+* PS: Professional Services
+  * [PS maturity scorecard by SPI Research](ps_maturity_scorecard_by_spi_research.md)
 * Six Sigma
   * [Lean Six Sigma Maturity Model](examples/six_sigma/lean_six_sigma_maturity_model.md)
   * [The Six Sigma Maturity Model™](examples/six_sigma/six_sigma_maturity_model.md)
