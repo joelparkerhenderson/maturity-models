@@ -39,6 +39,7 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [Infrastructure as Code maturity model by Stafford](examples/infrastructure_as_code/infrastructure_as_code_maturity_model_by_stafford.md)
 * IT: Information Technology
   * [IT Capability Maturity Framework by the Innovation Value Institute (IVI)](examples/it/it_capability_maturity_framework_by_innovation_value_institute.md)
+  * [IAM Maturity Model by Gartner](examples/it/iam/iam_maturity_model_by_gartner.md)
 * Open Source
   * [OpenSource Maturity Model](examples/software/open_source/opensource_maturity_model.md)
 * Management
