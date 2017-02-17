@@ -5,11 +5,11 @@ See [The Gartner IAM Program Maturity Model](https://image.slidesharecdn.com/the
 <table>
 
 <tr>
-<th>Level :<br></th>
-<th>Level :<br></th>
-<th>Level :<br></th>
-<th>Level :<br></th>
-<th>Level :<br></th>
+<th>Level 1<br>Initial</th>
+<th>Level 2<br>Developing</th>
+<th>Level 3<br>Defined</th>
+<th>Level 4<br>Managed</th>
+<th>Level 5<br>Optimized</th>
 </tr>
 
 <tr>
