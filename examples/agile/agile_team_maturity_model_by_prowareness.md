@@ -5,6 +5,7 @@ See (Prowareness Team Maturity Model](http://agilityladder.nl/files/2015/06/Prow
 <table>
 
 <tr>
+<th></th>
 <th>Level 1<br>Novice</th>
 <th>Level 2<br>Advanced Beginner</th>
 <th>Level 3<br>Competence</th>
