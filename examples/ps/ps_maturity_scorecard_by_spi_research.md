@@ -51,6 +51,8 @@ Level 5 — Optimized “Collaborative”:
 * Management has established quantitative process-improvement objectives, and continually revises them to reflect changing business objectives, and uses them as criteria in managing process improvement.
 
 
+## Table
+
 <table>
 
 <tr>
