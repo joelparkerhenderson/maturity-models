@@ -19,10 +19,11 @@ See https://en.wikipedia.org/wiki/Maturity_model
 We welcome examples of maturity models. If you know of a maturity model, please let us know by by creating a GitHub issue and/or a pull request.
 
 * Agile
-  * [Agile Compass for maturity in agile teams](examples/software/agile/agile_compass_for_maturity_in_agile_teams.md)
+  * [Agile Compass for maturity in agile teams](examples/agile/agile_compass_for_maturity_in_agile_teams.md)
   * [Agile Fluency](examples/software/agile/agile_fluency.md)
-  * [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](examples/software/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
-  * [Agile Maturity Model (AMM) by ThoughtWorks (TW)](examples/software/agile/agile_maturity_model_by_thoughtworks.md)
+  * [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](examples/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
+  * [Agile Maturity Model (AMM) by ThoughtWorks (TW)](examples/agile/agile_maturity_model_by_thoughtworks.md)
+  * [Agile Team Maturity Model by Prowareness](examples/agile/agile_team_maturity_model_by_prowareness.md)
 * Capability
   * [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2006_005_001_14771.pdf)
   * [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)]
