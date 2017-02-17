@@ -1,6 +1,6 @@
 # Agile Team Maturity Model by Prowareness
 
-See (Prowareness Team Maturity Model](http://agilityladder.nl/files/2015/06/Prowareness-Team-Maturity-Model_presentation.pdf)
+See [Prowareness Team Maturity Model](http://agilityladder.nl/files/2015/06/Prowareness-Team-Maturity-Model_presentation.pdf)
 
 <table>
 
