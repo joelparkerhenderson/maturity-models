@@ -20,7 +20,7 @@ We welcome examples of maturity models. If you know of a maturity model, please 
 
 * Agile
   * [Agile Compass for maturity in agile teams](examples/agile/agile_compass_for_maturity_in_agile_teams.md)
-  * [Agile Fluency](examples/software/agile/agile_fluency.md)
+  * [Agile Fluency](examples/agile/agile_fluency.md)
   * [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](examples/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
   * [Agile Maturity Model (AMM) by ThoughtWorks (TW)](examples/agile/agile_maturity_model_by_thoughtworks.md)
   * [Agile Team Maturity Model by Prowareness](examples/agile/agile_team_maturity_model_by_prowareness.md)
