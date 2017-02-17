@@ -18,8 +18,11 @@ See (Prowareness Team Maturity Model](http://agilityladder.nl/files/2015/06/Prow
 <th>Culture</th>
 
 <td>
-Discipline: Team culture manifests a disciplined apporach to applying the practices prescribed by the organisation.
-
+Discipline:
+<ul>
+<li>Team culture manifests a disciplined apporach to applying the practices prescribed by the organisation.
+</ul>
+<p>
 Behaviour:
 <ul>
 <li>Stick to the rules and focus on the goal of practices
@@ -29,8 +32,11 @@ Behaviour:
 </td>
 
 <td>
-Trust: Team culture is characterised by a drive for continuous improvement and learning.
-
+Trust:
+<ul>
+<li>Team culture is characterised by a drive for continuous improvement and learning.
+</ul>
+<p>
 Behaviour:
 <ul>
 <li>Experimentation
@@ -41,8 +47,11 @@ Behaviour:
 </td>
 
 <td>
-Support: The team choices and efforts are supported by the organisation.
-
+Support:
+<ul>
+<li>The team choices and efforts are supported by the organisation.
+</ul>
+<p>
 Behaviour:
 <ul>
 <li>Ask for help
@@ -51,7 +60,10 @@ Behaviour:
 </td>
 
 <td>
-Stretch: Using the (organizational) vision the team culture can stretch the boundaries to maximize the outcome of both the product and the team.
+Stretch:
+<ul>
+<li>Using the (organizational) vision the team culture can stretch the boundaries to maximize the outcome of both the product and the team.
+</ul>
 </td>
 
 <td>
@@ -62,7 +74,7 @@ Expert:
 <li>Discipline over compliance
 <li>Stretch over constraint
 </ul>
-
+<p>
 Culture:
 <ul>
 <li>Everybody deeply cares about all stakeholders
@@ -80,7 +92,7 @@ Culture:
 
 <td>
 Basic Scrum
-
+<p>
 Good practices:
 <ul>
 <li>Sprint planning
@@ -97,7 +109,7 @@ Good practices:
 
 <td>
 Code Quality
-
+<p>
 Good practices:
 <ul>
 <li>Measurement of Code Metrics
@@ -110,7 +122,7 @@ Good practices:
 
 <td>
 Automated QA
-
+<p>
 Good practices:
 <ul>
 <li>Automated Unit testing
@@ -124,7 +136,7 @@ Good practices:
 
 <td>
 Scaling
-
+<p>
 Good practices:
 <ul>
 <li>Architecture documentation
@@ -138,7 +150,7 @@ Good practices:
 
 <td>
 Continous Delivery
-
+<p>
 Good practices:
 <ul>
 <li>Automated Deployment
@@ -161,7 +173,7 @@ Good practices:
 
 <td>
 Backlog management
-
+<p>
 Good practices:
 <ul>
 <li>implementing Product Backlog item types
@@ -173,7 +185,7 @@ Good practices:
 
 <td>
 Involve end users / customers
-
+<p>
 Good practices:
 <ul>
 <li>Stakeholder - Development team dialogue
@@ -187,7 +199,7 @@ Good practices:
 
 <td>
 Direct customer feedback 
-
+<p>
 Good practices:
 <ul>
 <li>Voluntary sprint review attendance
@@ -200,7 +212,7 @@ Good practices:
 
 <td>
 End-to-end value
-
+<p>
 Good practices:
 <ul>
 <li>End2End Product Owner
@@ -214,7 +226,7 @@ Good practices:
 
 <td>
 Value steering
-
+<p>
 Good practices:
 <ul>
 <li>Identify Value, Goals & KPI’s Hypothesis
