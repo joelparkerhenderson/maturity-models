@@ -1,59 +1,4 @@
-# PS Maturity Scorecard by SPI Research
 
-See [The PS Maturity Scorecard](http://spiresearch.com/spiglass/tag/maturity-model/)
-and [Service Performance Insight, May 2014](http://www.internetviz.com/psjblog/wp-content/uploads/2014/05/Levels.jpg)
-
-
-## Service performance pillars
-
-Successful PSOs use a model to benchmark, segment and analyze their organization into five distinct areas of performance, both logical and functional. Five service performance pillars form the foundation of all service-oriented organizations (responsible parties appear in parenthesis):
-
-Vision, strategy and culture: (CEO) a unique view of the future and the role the service organization will play in shaping it.
-
-Finance and operations: (CFO) the ability to manage services profit and loss — to generate revenue and profit while developing repeatable operating processes, IT applications and management controls.
-
-Human capital alignment: (human resources) the ability to attract, hire, retain and motivate high-quality employees and subcontractors.
-
-Service execution: (engagement/delivery staff) the methodologies, processes and tools to effectively schedule, deploy and measure the quality of the service delivery process.
-
-Client relationships: (marketing and sales) the ability to communicate effectively with employees, partners and customers to generate and close business and win deals.
-
-
-## Professional Service maturity levels
-
-Five maturity levels help determine the relative operational effectiveness of each pillar:
-
-Level 1 — Initiated “Heroic”:
-
-* The PSO is in its early stages; operating processes are ad hoc and fluid.
-* The business environment is chaotic and opportunistic, and the focus for the PSO is primarily new client acquisition and reference building.
-* Employees wear many hats and serve many roles.
-* The primary goal is growth.
-
-Level 2 — Piloted “Functional Excellence”:
-
-* Core operating processes have become repeatable.
-* The company can demonstrate best practices in separate functional areas or geographies, but staff has not documented and codified them yet for the entire organization.
-
-Level 3 — Deployed “Project Excellence”:
-
-* The PSO has created a set of standard processes and operating principles for all major service performance pillars, but renegades and “hold-outs” may still exist.
-
-Level 4 — Institutionalized “Portfolio Excellence”:
-
-* Management uses precise measurements, metrics and controls, to effectively manage the PSO.
-* Each service-performance pillar contains a detailed set of operating principles, tools and measurements, with quantitative and qualitative goals for specific functions.
-
-Level 5 — Optimized “Collaborative”:
-
-* The PSO focuses on continual improvement of all elements of the five performance pillars.
-* A disciplined, controlled process is in place to measure and optimize performance through both incremental and innovative technological improvements.
-* Management has established quantitative process-improvement objectives, and continually revises them to reflect changing business objectives, and uses them as criteria in managing process improvement.
-
-
-<table>
-
-<tr>
 <th>Level 1<br>Initiatied</th>
 <th>Level 2<br>Piloted</th>
 <th>Level 3<br>Deployed</th>
@@ -96,16 +41,4 @@ Level 5 — Optimized “Collaborative”:
 <td>Integrated project and resource management. Using portfolio management. Global PMO. Global project dashboard. Global knowledge management. Global resource management.</td>
 <td>Integrated solutions. Continual checks and balances to assure superior utilitization and bill rates. Complete visibility to global project quality. Multi-disciplinary resource management.</td>
 </tr>
-
-<tr>
-<th>Finance and Operations</th>
-<td>The PSO has been created but is not yet profitable. Rudimentary time & expense capture. Limited financial visibility and control. Unpredictable financial performance.</td>
-<td>5% to 20% margin. PS becoming a profit center but still using immature finance processes and operating processes. investment in PSA to provide financial stabilitiy.</td>
-<td>20% to 30% margin. PS is a complete P&amp;L. Standard methods for resource management, time management, expense management, cost control, and billing. In-depth knowledge of all costs at the employee level, subcontractor level, and project level.</td>
-<td>PS generates > 20% of overall company revenue, and contributes > 30% margin. Well developed finance and operations processes and controls. IT automation and integration for all areas.</td>
-<td>PS generates > 40% margin. Continous improvement and enhancement. High profit. Integrated systems. Global with disciplined process controls and optimization.</td>
-</tr>
-
-</table>
-
 
