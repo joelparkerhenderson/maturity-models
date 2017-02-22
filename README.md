@@ -57,8 +57,9 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [Social Media Maturity Model](examples/social_media/social_media_maturity_model.md)
 * Team
   * [Team Capability Maturity Model by novumAVI](examples/team/team_capability_maturity_model_by_novumavi.md)
-
-
+  * [Team Performance Maturity Model](examples/team/team_performance_maturity_model.md)
+  
+  
 <h2><a name="maturity-model-levels">Maturity model levels</a></h2>
 
 A maturity model typical has sequential levels.
