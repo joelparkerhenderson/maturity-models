@@ -56,12 +56,12 @@ Credit: unknown
 
 <tr>
 <th>Process</th>
+
+<td>
 <ul>
 <li>Lack of process
 <li>Dysfunction among teams-- impacting operational results
 </ul>
-<td>
-
 </td>
 
 <td>
