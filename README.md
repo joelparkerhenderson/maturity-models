@@ -28,6 +28,8 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2006_005_001_14771.pdf)
   * [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)]
 (http://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14897.pdf)
+* Continous Improvement
+  * [Continuous Improvement Meetings Maturity Model](continuous_improvement_meetings_maturity_model.md)
 * Continuous Delivery
   * [Continuous Delivery Maturity Model by Xebia](examples/continuous_delivery/continuous_delivery_maturity_model_by_xebia.md)
 * Data Center
