@@ -10,6 +10,7 @@ See https://en.wikipedia.org/wiki/Maturity_model
 * [Maturity model levels](#maturity-model-levels)
 * [Maturity model process perspectives](#maturity-model-process-perspectives)
 * [Top-down vs. bottom-up](#top-down-vs-bottom-up)
+* [Modeling Maturity Levels classification system](#modeling-maturity-levels)
 * [Rebuttals to maturity models](#rebuttals-to-maturity-models)
 * [Related assessment metrics](#related-assessment-metrics)
 
@@ -104,6 +105,29 @@ Two approaches for designing maturity models exist:
 * Bottom-up approach: distinct characteristics or assessment items are determined first, then clustered in a second step into maturity levels to induce a more general view of the different steps of maturity evolution.
 
 
+<h2><a name="modeling-maturity-levels">Modeling Maturing Levels</a></h2>
+
+Modeling Maturity Levels is a classification system defined by Anneke Kleppe and Jos Warmer in their book MDA Explained Addison-Wesley. The levels characterize the role of modeling in a software project. The concept shows resemblance to the way software processes are rated with the Capability Maturity Model.
+
+See:
+* https://en.wikipedia.org/wiki/Modeling_Maturity_Levels
+* http://www.devx.com/enterprise/Article/26664
+
+There are 6 levels:
+
+* <b>Level 0: No Specification</b>: the specification of software is not written down. It is kept in the minds of the developers
+ 
+* <b>Level 1: Textual Specification</b>: the software is specified by a natural language text (be it English or Chinese or something else), written down in one or more documents
+
+* <b>Level 2: Text with Models</b>: a textual specification is enhanced with several models to show some of the main structures of the system
+
+* <b>Level 3: Models with Text</b>: the specification of software is written down in one or more models. In addition to these models, natural language text is used to explain details, the background, and the motivation of the models, but the core of the specifications lies in the models.
+ 
+* <b>Level 4: Precise Models</b>: the specification of the software is written down in one or more models. Natural language can still be used to explain the background and motivation of the models, but it takes on the same role as comments in source code.
+
+* <b>Level 5: Models only</b>: the models are precise and detailed enough to allow complete code generation. The code generators at this level have become as trustworthy as compilers, therefore no developer needs to even look at the generated code.
+
+
 <h2><a name="rebuttals-to-maturity-models">Rebuttals to maturity models</a></h2>
 
 * [Immaturity of Maturity Models by James Bach](http://www.satisfice.com/blog/archives/581)
@@ -116,3 +140,6 @@ Two approaches for designing maturity models exist:
 
 * [The Excellence Audit Top 10 10 by Tom Peters](examples/the_excellence_audit_top_ten_by_tom_peters.md)
 * [Great Professional Service Firms - by Tom Peters](examples/great_professional_service_firms_by_tom_peters.md)
+
+
+
