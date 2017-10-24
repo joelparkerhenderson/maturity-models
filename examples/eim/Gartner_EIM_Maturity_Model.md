@@ -1,6 +1,6 @@
 # Gartner's Enterprise Information Management Maturity Model
 
-**Credits**: [Overview](https://image.slidesharecdn.com/chief-data-officer-forum-role-of-metadata-and-data-quality-in-data-analytics-feburary-2016-shared-ve-160217015631/95/iag-presentation-at-the-chief-data-officer-forum-sydney-8-638.jpg)
+See [The Gartner's EIM Program Maturity Model](https://image.slidesharecdn.com/chief-data-officer-forum-role-of-metadata-and-data-quality-in-data-analytics-feburary-2016-shared-ve-160217015631/95/iag-presentation-at-the-chief-data-officer-forum-sydney-8-638.jpg)
 
 ## Level 0 : Unaware 
 * Business and IT do net know that information is a problem, while users mistrust the data.
