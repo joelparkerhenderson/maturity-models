@@ -27,8 +27,7 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [Agile Team Maturity Model by Prowareness](examples/agile/agile_team_maturity_model_by_prowareness.md)
 * Capability
   * [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2006_005_001_14771.pdf)
-  * [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)]
-(http://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14897.pdf)
+  * [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14897.pdf)
 * Continous Improvement
   * [Continuous Improvement Meetings Maturity Model](continuous_improvement_meetings_maturity_model.md)
 * Continuous Delivery
