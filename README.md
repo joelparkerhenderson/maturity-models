@@ -59,6 +59,8 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [The Six Sigma Maturity Model™](examples/six_sigma/six_sigma_maturity_model.md)
 * Social Media
   * [Social Media Maturity Model](examples/social_media/social_media_maturity_model.md)
+* Software Documenation
+  * [README Maturity Model](examples/software_documentation/readme_maturity_model.md)
 * Team
   * [Team Capability Maturity Model by novumAVI](examples/team/team_capability_maturity_model_by_novumavi.md)
   * [Team Performance Maturity Model](examples/team/team_performance_maturity_model.md)
