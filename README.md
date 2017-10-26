@@ -64,6 +64,8 @@ We welcome examples of maturity models. If you know of a maturity model, please 
 * Team
   * [Team Capability Maturity Model by novumAVI](examples/team/team_capability_maturity_model_by_novumavi.md)
   * [Team Performance Maturity Model](examples/team/team_performance_maturity_model.md)
+* Vendors
+  * [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
   
   
 <h2><a name="maturity-model-levels">Maturity model levels</a></h2>
