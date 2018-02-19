@@ -6,6 +6,7 @@ A maturity model is a business tool used to assess people/culture, processes/str
 
 See https://en.wikipedia.org/wiki/Maturity_model
 
+Contents:
 * [Maturity model examples](#maturity-model-examples)
 * [Maturity model levels](#maturity-model-levels)
 * [Maturity model process perspectives](#maturity-model-process-perspectives)
@@ -15,7 +16,7 @@ See https://en.wikipedia.org/wiki/Maturity_model
 * [Related assessment metrics](#related-assessment-metrics)
 
 
-<h2><a name="maturity-model-examples">Maturity model examples</a></h2>
+## Maturity model examples
 
 We welcome examples of maturity models. If you know of a maturity model, please let us know by by creating a GitHub issue and/or a pull request.
 
@@ -68,7 +69,7 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
   
   
-<h2><a name="maturity-model-levels">Maturity model levels</a></h2>
+## Maturity model levels
 
 A maturity model typical has sequential levels.
 
@@ -88,7 +89,7 @@ For example, a maturity model can have levels 0-5, generally corresponding to th
 * 5. Optimizing, Orchestrating, Ongoing, Opportunity-oriented, Organization-usage
 
 
-<h2><a name="maturity-model-process-perspectives">Maturity model process perspectives</a></h2>
+## Maturity model process perspectives
 
 P3M3® describes process perspectives. These can be assessed at all maturity model levels.
 
@@ -101,7 +102,7 @@ P3M3® describes process perspectives. These can be assessed at all maturity mod
 * Resource Management: how well the organization develops its own talent and utilizes the opportunities from the supply chain to overcome peaks and troughs.
 
 
-<h2><a name="top-down-vs-bottom-up">Top-down vs. bottom-up</a></h2>
+## Top-down vs. bottom-up
 
 Two approaches for designing maturity models exist:
 
@@ -110,7 +111,7 @@ Two approaches for designing maturity models exist:
 * Bottom-up approach: distinct characteristics or assessment items are determined first, then clustered in a second step into maturity levels to induce a more general view of the different steps of maturity evolution.
 
 
-<h2><a name="modeling-maturity-levels">Modeling Maturing Levels</a></h2>
+## Modeling Maturing Levels
 
 Modeling Maturity Levels is a classification system defined by Anneke Kleppe and Jos Warmer in their book MDA Explained Addison-Wesley. The levels characterize the role of modeling in a software project. The concept shows resemblance to the way software processes are rated with the Capability Maturity Model.
 
@@ -133,7 +134,7 @@ There are 6 levels:
 * <b>Level 5: Models only</b>: the models are precise and detailed enough to allow complete code generation. The code generators at this level have become as trustworthy as compilers, therefore no developer needs to even look at the generated code.
 
 
-<h2><a name="rebuttals-to-maturity-models">Rebuttals to maturity models</a></h2>
+## Rebuttals to maturity models
 
 * [Immaturity of Maturity Models by James Bach](http://www.satisfice.com/blog/archives/581)
 * [Maturity Models Have It Backwards by Michael Bolton](http://www.developsense.com/blog/2009/10/maturity-models-have-it-backwards/)
@@ -141,7 +142,7 @@ There are 6 levels:
 * [The Immaturity of CMM](http://www.satisfice.com/articles/cmm.shtml)
 
 
-<h2><a name="related-asssessment-metrics">Related assessment metrics</a></h2>
+## Related assessment metrics
 
 * [The Excellence Audit Top 10 10 by Tom Peters](examples/the_excellence_audit_top_ten_by_tom_peters.md)
 * [Great Professional Service Firms - by Tom Peters](examples/great_professional_service_firms_by_tom_peters.md)
