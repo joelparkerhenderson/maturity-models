@@ -19,7 +19,7 @@ Algorithms:
 
 2. Tree, Graph, simple greedy and divide and conquer algorithms, is able to understand the relevance of the levels of this matrix.
 
-3.Able to recognize and code dynamic programming solutions, good knowledge of graph algorithms, good knowledge of numerical computation algorithms, able to identify NP problems etc.
+3. Able to recognize and code dynamic programming solutions, good knowledge of graph algorithms, good knowledge of numerical computation algorithms, able to identify NP problems etc.
 
 Systems programming:
 
@@ -27,7 +27,7 @@ Systems programming:
 
 2. Understands kernel mode vs. user mode, multi-threading, synchronization primitives and how they&#8217;re implemented, able to read assembly code. Understands how networks work, understanding of network protocols and socket level programming.
 
-3. Understands the entire programming stack, hardware (CPU + Memory + Cache + Interrupts + microcode), binary code, assembly, static and dynamic linking, compilation, interpretation, JIT compilation, garbage collection, heap, stack, memory addressing&#8230;
+3. Understands the entire programming stack, hardware (CPU + Memory + Cache + Interrupts + microcode), binary code, assembly, static and dynamic linking, compilation, interpretation, JIT compilation, garbage collection, heap, stack, memory addressing.
 
 
 ## Software engineering
@@ -62,7 +62,9 @@ Automated testing:
 Problem decomposition:
 
 1. Able to break up problem into multiple functions
+
 2. Able to come up with reusable functions/objects that solve the overall problem
+
 3. Use of appropriate data structures and algorithms and comes up with generic/object-oriented code that encapsulate aspects of the problem that are subject to change.
 
 Systems decomposition:
@@ -156,7 +158,7 @@ Frameworks:
 
 1. Has heard about but not used the popular frameworks available for the platform.
 
-2.Has used more than one framework in a professional capacity and is well-versed with the idioms of the frameworks.
+2. Has used more than one framework in a professional capacity and is well-versed with the idioms of the frameworks.
 
 3. Author of framework
 
