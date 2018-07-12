@@ -64,6 +64,9 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [Portfolio, Programme & Project Management Maturity Model (P3M3) by OGC](examples/management/porfolio_programme_project_management_maturity_model_p3m3_by_ogc.md)
 * PS: Professional Services
   * [PS maturity scorecard by SPI Research](examples/ps/ps_maturity_scorecard_by_spi_research.md)
+* Skills
+  * [Programmer competency matrix](programmer_competentcy_matrix.md)
+  * [Skills maturity model by Prowareness](skills_maturity_model_by_prowareness.md)
 * Six Sigma
   * [Lean Six Sigma Maturity Model](examples/six_sigma/lean_six_sigma_maturity_model.md)
   * [The Six Sigma Maturity Model™](examples/six_sigma/six_sigma_maturity_model.md)
@@ -155,6 +158,3 @@ There are 6 levels:
 
 * [The Excellence Audit Top 10 10 by Tom Peters](examples/the_excellence_audit_top_ten_by_tom_peters.md)
 * [Great Professional Service Firms - by Tom Peters](examples/great_professional_service_firms_by_tom_peters.md)
-
-
-
