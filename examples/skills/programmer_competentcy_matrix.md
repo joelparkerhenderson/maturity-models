@@ -238,7 +238,7 @@ Knowledge of upcoming technologies:
 
 2. Has downloaded the alpha preview/CTP/beta and read some articles/manuals
 
-3.Has played with the previews and has actually built something with it and as a bonus shared that with everyone else
+3. Has played with the previews and has actually built something with it and as a bonus shared that with everyone else
 
 Platform internals:
 
@@ -250,11 +250,11 @@ Platform internals:
 
 Books:
 
-* Code Complete, Don&#8217;t Make me Think, Mastering Regular Expressions
+1. Code Complete, Don&#8217;t Make me Think, Mastering Regular Expressions
 
-* Design Patterns, Peopleware, Programming Pearls, Algorithm Design Manual, Pragmatic Programmer, Mythical Man month
+2. Design Patterns, Peopleware, Programming Pearls, Algorithm Design Manual, Pragmatic Programmer, Mythical Man month
 
-* Structure and Interpretation of Computer Programs, Concepts Techniques, Models of Computer Programming, Art of Computer Programming, Database systems , by C. J Date, Thinking Forth, Little Schemer
+3. Structure and Interpretation of Computer Programs, Concepts Techniques, Models of Computer Programming, Art of Computer Programming, Database systems , by C. J Date, Thinking Forth, Little Schemer
 
 Blogs:
 
