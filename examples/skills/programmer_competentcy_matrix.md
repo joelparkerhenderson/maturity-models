@@ -2,6 +2,8 @@
 
 Credit: http://sijinjoseph.com/programmer-competency-matrix/
 
+This list is Adapted and edited for our teams' preferences.
+
 
 ## Computer science
 
