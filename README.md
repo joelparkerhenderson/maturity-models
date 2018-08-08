@@ -1,8 +1,8 @@
 <!--
   * browser: maturity-models
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 6.8.0
-  * updated: 2018-02-24T03:07:24Z
+  * version: 6.9.0
+  * updated: 2018-08-08T02:46:27Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -16,13 +16,36 @@ A maturity model is a business tool used to assess people/culture, processes/str
 See https://en.wikipedia.org/wiki/Maturity_model
 
 Contents:
-* [Maturity model examples](#maturity-model-examples)
 * [Maturity model levels](#maturity-model-levels)
+* [Maturity model examples](#maturity-model-examples)
 * [Maturity model process perspectives](#maturity-model-process-perspectives)
 * [Top-down vs. bottom-up](#top-down-vs-bottom-up)
 * [Modeling Maturity Levels classification system](#modeling-maturity-levels)
 * [Rebuttals to maturity models](#rebuttals-to-maturity-models)
 * [Related assessment metrics](#related-assessment-metrics)
+
+
+## Maturity model levels
+
+Maturity model levels are typically a series of steps of sophistication such as:
+
+* Level 1: Initiate
+* Level 2: Develop
+* Level 3: Standardize
+* Level 4: Manage
+* Level 5: Orchestrate
+
+Maturity model levels have a range of terminology in various industries such as:
+
+* Level 1: Initiate, Investigate, Implicit, Individual-oriented, Informal-usage.
+* Level 2: Develop, Describe, Duplicate, Direct-oriented, Department-usage.
+* Level 3: Standardize, Specify, Scale, Service-oriented, Segment-usage
+* Level 4: Manage, Measure, Mainstream, Mission-oriented, Mass-usage.
+* Level 5: Orchestrate, Optimize, Ongoing, Opportunity-oriented, Organization-usage
+
+Some maturity models also use:
+
+* Level 0: None, Never, Negligible, Not Applicable.
 
 
 ## Maturity model examples
@@ -81,26 +104,6 @@ We welcome examples of maturity models. If you know of a maturity model, please 
   * [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
   
   
-## Maturity model levels
-
-A maturity model typical has sequential levels.
-
-For example, a maturity model can have levels 1-3, generally corresponding to these meanings:
-
-* 1. Basic
-* 2. Intermediate
-* 3. Advanced
-
-For example, a maturity model can have levels 0-5, generally corresponding to these meanings:
-
-* 0. None, Never, Negligible, Not Applicable
-* 1. Initial, Informal, Implicit, Irregular, Inconsistent, Individual-usage.
-* 2. Developing, Describing, Duplicating, Department-usage.
-* 3. Standardizing, Specifying, Scaling, Service-oriented, Segment-usage
-* 4. Managing, Measuring, Mainstreaming, Mission-oriented, Mass-usage
-* 5. Optimizing, Orchestrating, Ongoing, Opportunity-oriented, Organization-usage
-
-
 ## Maturity model process perspectives
 
 P3M3® describes process perspectives. These can be assessed at all maturity model levels.
