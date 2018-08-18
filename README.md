@@ -29,6 +29,7 @@ Contents:
 
 Maturity model levels are typically a series of steps of sophistication such as:
 
+* Level 0: Not Applicable
 * Level 1: Initiate
 * Level 2: Develop
 * Level 3: Standardize
@@ -37,15 +38,12 @@ Maturity model levels are typically a series of steps of sophistication such as:
 
 Maturity model levels have a range of terminology in various industries such as:
 
+* Level 0: None, Never, Negligible, Not Applicable.
 * Level 1: Initiate, Investigate, Implicit, Individual-oriented, Informal-usage.
 * Level 2: Develop, Describe, Duplicate, Direct-oriented, Department-usage.
 * Level 3: Standardize, Specify, Scale, Service-oriented, Segment-usage
 * Level 4: Manage, Measure, Mainstream, Mission-oriented, Mass-usage.
 * Level 5: Orchestrate, Optimize, Ongoing, Opportunity-oriented, Organization-usage
-
-Some maturity models also use:
-
-* Level 0: None, Never, Negligible, Not Applicable.
 
 
 ## Maturity model examples
@@ -54,7 +52,7 @@ We welcome examples of maturity models. If you know of a maturity model, please 
 
 General maturity models:
 
-  * [U.S. N.I.H. Proficiency Scale](examples/skill/us_nih_proficiency_scale.md]
+  * [U.S. N.I.H. Proficiency Scale](examples/skill/us_nih_proficiency_scale.md)
 
 Topic maturity models:
 
