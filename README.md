@@ -53,7 +53,8 @@ We welcome examples of maturity models. If you know of a maturity model, please 
 General maturity models:
 
   * [U.S. N.I.H. Proficiency Scale](examples/skill/us_nih_proficiency_scale.md)
-
+  * [Dreyfus model of skill acquisition](examples/skill/dreyfus_model_of_skill_acquisition.md)
+  
 Topic maturity models:
 
 * Agile
