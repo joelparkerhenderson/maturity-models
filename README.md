@@ -52,6 +52,12 @@ Some maturity models also use:
 
 We welcome examples of maturity models. If you know of a maturity model, please let us know by by creating a GitHub issue and/or a pull request.
 
+General maturity models:
+
+  * [U.S. N.I.H. Proficiency Scale](examples/skill/us_nih_proficiency_scale.md]
+
+Topic maturity models:
+
 * Agile
   * [Agile Compass for maturity in agile teams](examples/agile/agile_compass_for_maturity_in_agile_teams.md)
   * [Agile Fluency](examples/agile/agile_fluency.md)
@@ -88,8 +94,8 @@ We welcome examples of maturity models. If you know of a maturity model, please 
 * PS: Professional Services
   * [PS maturity scorecard by SPI Research](examples/ps/ps_maturity_scorecard_by_spi_research.md)
 * Skills
-  * [Programmer competency matrix](programmer_competentcy_matrix.md)
-  * [Skills maturity model by Prowareness](skills_maturity_model_by_prowareness.md)
+  * [Programmer competency matrix](examples/programming/programmer_competentcy_matrix.md)
+  * [Skills maturity model by Prowareness](exapmles/skill/skills_maturity_model_by_prowareness.md)
 * Six Sigma
   * [Lean Six Sigma Maturity Model](examples/six_sigma/lean_six_sigma_maturity_model.md)
   * [The Six Sigma Maturity Model™](examples/six_sigma/six_sigma_maturity_model.md)
