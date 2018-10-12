@@ -16,80 +16,93 @@ Credit: unknown
 </tr>
 
 <tr>
+
 <th>People</th>
 
 <td>
-<ul>
-<li>No investment or resources
-<li>Inconsistent behaviors and outcomes
-<li>Poor communications and lack of trust
-</ul>
+
+No investment or resources
+
+Inconsistent behaviors and outcomes
+
+Poor communications and lack of trust
+
 </td>
 
 <td>
-<ul>
-<li>Beginning to assess and analyze behaviors and conflicts
-</ul>
+
+Beginning to assess and analyze behaviors and conflicts.
+
 </td>
 
 <td>
-<ul>
-<li>Development of plans for teams and individuals, for performance and improvement
+
+Development of plans for teams and individuals, for performance and improvement
+
 </td>
 
 <td>
-<ul>
-<li>Building trust among team members
-<li>Conflict resolution strategies
-</ul>
+
+Building trust among team members
+
+Conflict resolution strategies
+
 </td>
 
 <td>
-<ul>
-<li>Alignment: executive and employee buy-in
-<li>Accountability
-<li>Vetting new opportunities and new ways of thinking or creativity
-</ul>
+
+Alignment: executive and employee buy-in
+
+Accountability
+
+Vetting new opportunities and new ways of thinking or creativity
+
 </td>
 
 </tr>
 
 <tr>
+
 <th>Process</th>
 
 <td>
-<ul>
-<li>Lack of process
-<li>Dysfunction among teams-- impacting operational results
-</ul>
+
+Lack of process
+
+Dysfunction among teams-- impacting operational results
+
 </td>
 
 <td>
-<ul>
-<li>Beginning to document gaps, priorities, and opportunities for improvement
-</ul>
+
+Beginning to document gaps, priorities, and opportunities for improvement
+
 </td>
 
 <td>
-<ul>
-<li>Defined goals and objectives
-<li>Programs offered for team and individual improvement-- ad hoc
-<li>Implement team charters
-</ul>
+
+Defined goals and objectives
+
+Programs offered for team and individual improvement-- ad hoc
+
+Implement team charters
+
 </td>
 
 <td>
-<ul>
-<li>Defined team norms and expectations
-<li>Leadership development in place specific to managing team
-</ul>
+
+Defined team norms and expectations
+
+Leadership development in place specific to managing team
+
 </td>
 
 <td>
-<ul>
-<li>Strategic plan in place
-<li>Investment of time and resources
-</ul>
+
+Strategic plan in place
+
+Investment of time and resources
+
 </td>
 
 </tr>
@@ -99,79 +112,93 @@ Credit: unknown
 <th>Systems</th>
 
 <td>
-<ul>
-<li>No tools and technologies
-</ul>
+
+No tools and technologies
+
 </td>
 
 <td>
-<ul>
-<li>Lack of tools and technologies
-</ul>
+
+Lack of tools and technologies
+
 </td>
 
 <td>
-<ul>
-<li>Some supporting tools and technologies
-<li>Some reporting and metrics
-</ul>
+
+Some supporting tools and technologies
+
+Some reporting and metrics
+
 </td>
 
 <td>
-<ul>
-<li>Supporting tools and technologies
-<li>Advanced reporting and metrics
-</ul>
+
+Supporting tools and technologies
+
+Advanced reporting and metrics
+
 </td>
 
 <td>
-<ul>
-<li>Enterprise-wide supporting tools and technologies
-<li>Measurable results
-</ul>
+
+Enterprise-wide supporting tools and technologies
+
+Measurable results
+
 </td>
+
 </tr>
 
 <tr>
+
 <th>Outcomes</th>
 
 <td>
-<ul>
-<li>None
-</ul>
+
+None
+
 </td>
 
 <td>
-<ul>
-<li>Starting to communicate and get executive buy-in
-</ul>
+
+Starting to communicate and get executive buy-in
+
 </td>
 
 <td>
-<ul>
-<li>Improve communication-- more frequent meetings and check-ins
-<li>Increased knowledge sharing
-<li>Improved communication style based on awareness of personality types
-</ul>
+
+Improve communication-- more frequent meetings and check-ins
+
+Increased knowledge sharing
+
+Improved communication style based on awareness of personality types
+
 </td>
 
 <td>
-<ul>
-<li>Behavior modification based on awareness of different personality types
-<li>Improved company culture
-<li>Improved employee engagement
-<li>Adding business value
-</ul>
+
+Behavior modification based on awareness of different personality types
+
+Improved company culture
+
+Improved employee engagement
+
+Adding business value
+
 </td>
 
 <td>
-<ul>
-<li>Governance in place
-<li>Leadership capabilties
-<li>Operational excellence
-<li>Improved performance
-<li>Business impact
-</ul>
+
+Governance in place
+
+Leadership capabilties
+
+Operational excellence
+
+Improved performance
+
+Business impact
+
 </td>
 
 </tr>
