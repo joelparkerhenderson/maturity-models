@@ -94,7 +94,7 @@ Topic maturity models:
   * [PS maturity scorecard by SPI Research](examples/ps/ps_maturity_scorecard_by_spi_research.md)
 * Skills
   * [Programmer competency matrix](examples/programming/programmer_competentcy_matrix.md)
-  * [Skills maturity model by Prowareness](exapmles/skill/skills_maturity_model_by_prowareness.md)
+  * [Skills maturity model by Prowareness](examples/skill/skills_maturity_model_by_prowareness.md)
 * Six Sigma
   * [Lean Six Sigma Maturity Model](examples/six_sigma/lean_six_sigma_maturity_model.md)
   * [The Six Sigma Maturity Model™](examples/six_sigma/six_sigma_maturity_model.md)
