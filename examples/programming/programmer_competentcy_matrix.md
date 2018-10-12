@@ -36,11 +36,11 @@ Systems programming:
 
 Source code version control usage:
 
-* Beginning user, able to clone, push, pull, etc.
+1. Beginning user, able to clone, push, pull, etc.
 
-* Intermediate, able to rebase, use ecosystem tooling (e.g. aliases, plugins, hooks), use various versioning flows, etc.
+2. Intermediate, able to rebase, use ecosystem tooling (e.g. aliases, plugins, hooks), use various versioning flows, etc.
 
-* Advanced, e.g. able to create ecosystem tooling (e.g. write aliases, plugins, hooks).
+3. Advanced, e.g. able to create ecosystem tooling (e.g. write aliases, plugins, hooks).
 
 Build automatiion:
 
