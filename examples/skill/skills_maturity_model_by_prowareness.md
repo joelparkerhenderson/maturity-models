@@ -5,6 +5,7 @@ See [Prowareness Team Maturity Model](http://agilityladder.nl/files/2015/06/Prow
 <table>
 
 <tr>
+<th></th>
 <th>1</th>
 <th>2</th>
 <th>3</th>
