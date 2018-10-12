@@ -19,7 +19,7 @@ See [Prowareness Team Maturity Model](http://agilityladder.nl/files/2015/06/Prow
 <td>Working knowledge of key aspects of practice</td>
 <td>Good working knowledge and background knowledge of area of practice</td>
 <td>Depth of understanding of discipline and area of practice</td>
-<td>Auhtoritative knowledge of discipline and deep tacit understanding across area of practice</td>
+<td>Authoritative knowledge of discipline and deep tacit understanding across area of practice</td>
 </tr>
 
 <tr>
