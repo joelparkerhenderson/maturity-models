@@ -27,7 +27,7 @@ See http://www.novumavi.com.au/images/tcmm.png
 <td>ad hoc; confusion; reinvent the wheel; what's going on?</td>
 <td>told what to do; repeatable practices</td>
 <td>participatory culture; standard processes</td>
-<td>"performing culture; managed processes</td>
+<td>performing culture; managed processes</td>
 <td>performing! mastery, continously improving</td>
 </tr>
 
