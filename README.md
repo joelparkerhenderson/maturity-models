@@ -1,8 +1,8 @@
 <!--
   * browser: maturity-models
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 6.9.0
-  * updated: 2018-08-08T02:46:27Z
+  * version: 7.0.0
+  * updated: 2021-05-19T19:44:02Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -23,7 +23,6 @@ Contents:
 * [Modeling Maturity Levels classification system](#modeling-maturity-levels)
 * [Rebuttals to maturity models](#rebuttals-to-maturity-models)
 * [Related assessment metrics](#related-assessment-metrics)
-
 
 ## Maturity model levels
 
@@ -52,59 +51,59 @@ We welcome examples of maturity models. If you know of a maturity model, please 
 
 General maturity models:
 
-  * [U.S. N.I.H. Proficiency Scale](examples/skill/us_nih_proficiency_scale.md)
-  * [Dreyfus model of skill acquisition](examples/skill/dreyfus_model_of_skill_acquisition.md)
+  * [U.S. N.I.H. Proficiency Scale](examples/skill/us-nih-proficiency-scale/index.md)
+  * [Dreyfus model of skill acquisition](examples/skill/dreyfus-model-of-skill-acquisition/index.md)
   
 Topic maturity models:
 
 * Agile
-  * [Agile Compass for maturity in agile teams](examples/agile/agile_compass_for_maturity_in_agile_teams.md)
-  * [Agile Fluency](examples/agile/agile_fluency.md)
-  * [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](examples/agile/agile_devops_maturity_model_by_hewlett_packard_enterprise_hpe.md)
-  * [Agile Maturity Model (AMM) by ThoughtWorks (TW)](examples/agile/agile_maturity_model_by_thoughtworks.md)
-  * [Agile Team Maturity Model by Prowareness](examples/agile/agile_team_maturity_model_by_prowareness.md)
+  * [Agile Compass for maturity in agile teams](examples/agile/agile-compass-for-maturity-in-agile-teams/index.md)
+  * [Agile Fluency](examples/agile/agile-fluency/index.md)
+  * [Agile DevOps Maturity Model by Hewlett Packard Enterprise (HPE)](examples/agile/agile-devops-maturity-model-by-hewlett-packard-enterprise-hpe/index.md)
+  * [Agile Maturity Model (AMM) by ThoughtWorks (TW)](examples/agile/agile-maturity-model-by-thoughtworks/index.md)
+  * [Agile Team Maturity Model by Prowareness](examples/agile/agile-team-maturity-model-by-prowareness/index.md)
 * Capability
-  * [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2006_005_001_14771.pdf)
-  * [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14897.pdf)
+  * [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset-files/TechnicalReport/2006-005-001-14771.pdf)
+  * [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset-files/TechnicalReport/2007-005-001-14897.pdf)
 * Continous Improvement
-  * [Continuous Improvement Meetings Maturity Model](continuous_improvement_meetings_maturity_model.md)
+  * [Continuous Improvement Meetings Maturity Model](continuous-improvement-meetings-maturity-model/index.md)
 * Continuous Delivery
-  * [Continuous Delivery Maturity Model by Xebia](examples/continuous_delivery/continuous_delivery_maturity_model_by_xebia.md)
+  * [Continuous Delivery Maturity Model by Xebia](examples/continuous-delivery/continuous-delivery-maturity-model-by-xebia/index.md)
 * Data Center
-  * [Data Center Automation Maturity Model by Xebia](examples/data_center/data_center_automation_maturity_model_by_xebia.md)
+  * [Data Center Automation Maturity Model by Xebia](examples/data-center/data-center-automation-maturity-model-by-xebia/index.md)
 * Enterprise Architecture
-  * [Enterprise Architecture: TOGAF Maturity Model](examples/software/enterprise_architecture/togaf_maturity_model.md)
-  * [Enterprise Architecture Maturity Model based on CMMI CM SEI](examples/software/enterprise_architecture/enterprise_architecture_maturity_model_based_on_cmmi_cm_sei.md)
+  * [Enterprise Architecture: TOGAF Maturity Model](examples/software/enterprise-architecture/togaf-maturity-model/index.md)
+  * [Enterprise Architecture Maturity Model based on CMMI CM SEI](examples/software/enterprise-architecture/enterprise-architecture-maturity-model-based-on-cmmi-cm-sei/index.md)
 * EIM : Enterprise Information Management
-  * [EIM Maturity Model by Gartner](examples/eim/Gartner_EIM_Maturity_Model.md)
+  * [EIM Maturity Model by Gartner](examples/eim/Gartner-EIM-Maturity-Model/index.md)
 * IAM: Identity and Access Management
-  * [IAM Program Maturity Model by Gartner](examples/iam/iam_program_maturity_model_by_gartner.md)
+  * [IAM Program Maturity Model by Gartner](examples/iam/iam-program-maturity-model-by-gartner/index.md)
 * Infrastructure as Code (IaC)
-  * [Infrastructure as Code maturity model by Joel Parker Henderson](examples/infrastructure_as_code/infrastructure_as_code_maturity_model_by_joel_parker_henderson.md)
-  * [Infrastructure as Code maturity model by Stafford](examples/infrastructure_as_code/infrastructure_as_code_maturity_model_by_stafford.md)
+  * [Infrastructure as Code maturity model by Joel Parker Henderson](examples/infrastructure-as-code/infrastructure-as-code-maturity-model-by-joel-parker-henderson/index.md)
+  * [Infrastructure as Code maturity model by Stafford](examples/infrastructure-as-code/infrastructure-as-code-maturity-model-by-stafford/index.md)
 * IT: Information Technology
-  * [IT Capability Maturity Framework by the Innovation Value Institute (IVI)](examples/it/it_capability_maturity_framework_by_innovation_value_institute.md)
+  * [IT Capability Maturity Framework by the Innovation Value Institute (IVI)](examples/it/it-capability-maturity-framework-by-innovation-value-institute/index.md)
 * Open Source
-  * [OpenSource Maturity Model](examples/software/open_source/opensource_maturity_model.md)
+  * [OpenSource Maturity Model](examples/software/open-source/opensource-maturity-model/index.md)
 * Management
-  * [Program and Portfolio Management Maturity Model by Gartner](examples/management/program_and_portfolio_management_maturity_model_by_gartner.md)
-  * [Project Portfolio Management Maturity Levels by Priority Systems](examples/management/project_portfolio_management_maturity_levels_by_priority_systems.md)
-  * [Portfolio, Programme & Project Management Maturity Model (P3M3) by OGC](examples/management/porfolio_programme_project_management_maturity_model_p3m3_by_ogc.md)
+  * [Program and Portfolio Management Maturity Model by Gartner](examples/management/program-and-portfolio-management-maturity-model-by-gartner/index.md)
+  * [Project Portfolio Management Maturity Levels by Priority Systems](examples/management/project-portfolio-management-maturity-levels-by-priority-systems/index.md)
+  * [Portfolio, Programme & Project Management Maturity Model (P3M3) by OGC](examples/management/porfolio-programme-project-management-maturity-model-p3m3-by-ogc/index.md)
 * PS: Professional Services
-  * [PS maturity scorecard by SPI Research](examples/ps/ps_maturity_scorecard_by_spi_research.md)
+  * [PS maturity scorecard by SPI Research](examples/ps/ps-maturity-scorecard-by-spi-research/index.md)
 * Skills
-  * [Programmer competency matrix](examples/programming/programmer_competentcy_matrix.md)
-  * [Skills maturity model by Prowareness](examples/skill/skills_maturity_model_by_prowareness.md)
+  * [Programmer competency matrix](examples/programming/programmer-competentcy-matrix/index.md)
+  * [Skills maturity model by Prowareness](examples/skill/skills-maturity-model-by-prowareness/index.md)
 * Six Sigma
-  * [Lean Six Sigma Maturity Model](examples/six_sigma/lean_six_sigma_maturity_model.md)
-  * [The Six Sigma Maturity Model™](examples/six_sigma/six_sigma_maturity_model.md)
+  * [Lean Six Sigma Maturity Model](examples/six-sigma/lean-six-sigma-maturity-model/index.md)
+  * [The Six Sigma Maturity Model™](examples/six-sigma/six-sigma-maturity-model/index.md)
 * Social Media
-  * [Social Media Maturity Model](examples/social_media/social_media_maturity_model.md)
+  * [Social Media Maturity Model](examples/social-media/social-media-maturity-model/index.md)
 * Software Documenation
-  * [README Maturity Model](examples/software_documentation/readme_maturity_model.md)
+  * [README Maturity Model](examples/software-documentation/readme-maturity-model/index.md)
 * Team
-  * [Team Capability Maturity Model by novumAVI](examples/team/team_capability_maturity_model_by_novumavi.md)
-  * [Team Performance Maturity Model](examples/team/team_performance_maturity_model.md)
+  * [Team Capability Maturity Model by novumAVI](examples/team/team-capability-maturity-model-by-novumavi/index.md)
+  * [Team Performance Maturity Model](examples/team/team-performance-maturity-model/index.md)
 * Vendors
   * [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
   
@@ -136,7 +135,7 @@ Two approaches for designing maturity models exist:
 Modeling Maturity Levels is a classification system defined by Anneke Kleppe and Jos Warmer in their book MDA Explained Addison-Wesley. The levels characterize the role of modeling in a software project. The concept shows resemblance to the way software processes are rated with the Capability Maturity Model.
 
 See:
-* https://en.wikipedia.org/wiki/Modeling_Maturity_Levels
+* https://en.wikipedia.org/wiki/Modeling-Maturity-Levels
 * http://www.devx.com/enterprise/Article/26664
 
 There are 6 levels:
@@ -164,5 +163,5 @@ There are 6 levels:
 
 ## Related assessment metrics
 
-* [The Excellence Audit Top 10 10 by Tom Peters](examples/the_excellence_audit_top_ten_by_tom_peters.md)
-* [Great Professional Service Firms - by Tom Peters](examples/great_professional_service_firms_by_tom_peters.md)
+* [The Excellence Audit Top 10 10 by Tom Peters](examples/the-excellence-audit-top-ten-by-tom-peters/index.md)
+* [Great Professional Service Firms - by Tom Peters](examples/great-professional-service-firms-by-tom-peters/index.md)
