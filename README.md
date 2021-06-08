@@ -83,12 +83,14 @@ Topic maturity models:
   * [Infrastructure as Code maturity model by Stafford](examples/infrastructure-as-code/infrastructure-as-code-maturity-model-by-stafford/index.md)
 * IT: Information Technology
   * [IT Capability Maturity Framework by the Innovation Value Institute (IVI)](examples/it/it-capability-maturity-framework-by-innovation-value-institute/index.md)
-* Open Source
-  * [OpenSource Maturity Model](examples/software/open-source/opensource-maturity-model/index.md)
 * Management
   * [Program and Portfolio Management Maturity Model by Gartner](examples/management/program-and-portfolio-management-maturity-model-by-gartner/index.md)
   * [Project Portfolio Management Maturity Levels by Priority Systems](examples/management/project-portfolio-management-maturity-levels-by-priority-systems/index.md)
   * [Portfolio, Programme & Project Management Maturity Model (P3M3) by OGC](examples/management/porfolio-programme-project-management-maturity-model-p3m3-by-ogc/index.md)
+* Open Source
+  * [OpenSource Maturity Model](examples/software/open-source/opensource-maturity-model/index.md)
+* Product
+  * [Kwan’s Hierarchy of Product Needs](examples/product/kwans-hierarchy-of-product-needs/index.md)
 * PS: Professional Services
   * [PS maturity scorecard by SPI Research](examples/ps/ps-maturity-scorecard-by-spi-research/index.md)
 * Skills
