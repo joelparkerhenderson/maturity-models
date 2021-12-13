@@ -1,8 +1,8 @@
 <!--
   * browser: maturity-models
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 7.0.0
-  * updated: 2021-05-19T19:44:02Z
+  * version: 7.1.0
+  * updated: 2021-12-14T03:24:14Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -20,9 +20,18 @@ Contents:
 * [Maturity model examples](#maturity-model-examples)
 * [Maturity model process perspectives](#maturity-model-process-perspectives)
 * [Top-down vs. bottom-up](#top-down-vs-bottom-up)
-* [Modeling Maturity Levels classification system](#modeling-maturity-levels)
+* [Modeling Maturing Levels](#modeling-maturing-levels)
 * [Rebuttals to maturity models](#rebuttals-to-maturity-models)
 * [Related assessment metrics](#related-assessment-metrics)
+* [FAQ](#faq)
+  * [Can I create a maturity model?](#can-i-create-a-maturity-model)
+  * [Who decides what goes into a maturity model?](#who-decides-what-goes-into-a-maturity-model)
+  * [Is a maturity model a snapshot in time or a future plan?](#is-a-maturity-model-a-snapshot-in-time-or-a-future-plan)
+  * [Is a maturity model descriptive or prescriptive?](#is-a-maturity-model-descriptive-or-prescriptive)
+  * [Can a maturity model evolve over time?](#can-a-maturity-model-evolve-over-time)
+  * [Does a maturity model have an end state?](#does-a-maturity-model-have-an-end-state)
+  * [Is a maturity model different than a scientific model?](#is-a-maturity-model-different-than-a-scientific-model)
+  * [Is a maturity models verifiable?](#is-a-maturity-models-verifiable)
 
 ## Maturity model levels
 
@@ -163,7 +172,51 @@ There are 6 levels:
 * [The Immaturity of CMM](http://www.satisfice.com/articles/cmm.shtml)
 * [Why Maturity Models Don’t Work by Barry O'Reilly](https://barryoreilly.com/explore/blog/why-maturity-models-dont-work/)
 
+
 ## Related assessment metrics
 
 * [The Excellence Audit Top 10 10 by Tom Peters](examples/the-excellence-audit-top-ten-by-tom-peters/index.md)
 * [Great Professional Service Firms - by Tom Peters](examples/great-professional-service-firms-by-tom-peters/index.md)
+
+
+## FAQ
+
+
+### Can I create a maturity model?
+
+Yes. Anyone can create a maturity model. For example, many organizations create their own maturity models, sometimes based on public maturity models, sometimes making use of internal confidential information, sometimes in consultation with experts and advisors. and so forth. This repository links to many maturity models that are created by many people and many organizations.
+
+
+### Who decides what goes into a maturity model?
+
+The team that creates the maturity model decides what goes into it. For creating your own maturity models, we suggest using a "decision record" that can help your team research what you want to go in, and document your choices, in order to help other people understand and leverage your work.
+
+
+### Is a maturity model a snapshot in time or a future plan?
+
+Snapshot. Good teams will leverage the snapshot in order to create future plans, such as plans to work toward a higher maturity model level.
+
+
+### Is a maturity model descriptive or prescriptive?
+
+Descriptive. A maturity model describes the levels and their items, and does not prescribe how a team moves from one level to the next, or acquires items. In rare cases, a specific maturity model may provide adjuct advice, yet this is inherent to the maturity model. 
+
+
+### Can a maturity model evolve over time?
+
+Yes. As an organization evolves, each of its maturity models can evolve. For example, some organizations like to look ove each of their maturity models, each year, to ensure that each maturity model is still useful, and also to update each model as desired, based n the organization's goals and capabilities. 
+
+
+### Does a maturity model have an end state?
+
+Yes. Then end state of a maturity model is when it is no longer useful to a team. For example, this can happen when a team decides that its current capabilties are fine as is, or when a team outgrows a maturity model by acheiving its highest level then wanting to improve even more.
+
+
+### Is a maturity model different than a scientific model?
+
+Yes. A maturity model is intended to be a quick easy summary in order to help a team communicate about its current capabilties, and plan for future capabilties. The word "model" has the meaning "a small thing that represents another thing, that is often larger, or more complex, or more abstract." For comparison a "scientific model" is intended to explain and predict the behaviour of a real object or system, such as a visualization model that can contextualize a scientific object, or a predictive model that can foreccast a scientific system.
+
+
+### Is a maturity models verifiable?
+
+Yes. A maturity model can describe its levels and items in terms of qualitative metrics and/or quantitative metrics. For example, a programmer can describe Level 1 "Initiate" in terms of "Write a program that prints Hello World", up to Level 5 "Orchestrate" in terms of "Run a worldwide distributed system in concert with our key partners".
