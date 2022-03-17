@@ -1,6 +1,22 @@
-# Levels of Technical Leadership by Poss
+# Technical Leadership Career Ladder by Poss
 
 https://dr-knz.net/levels-of-technical-leadership/tl-career-ladder.pdf
+
+
+A few words of guidance:
+
+* Technical Leads begin at level L5.
+
+* At levels L5 and L6, tech leads can transition into the IC role seamlessly (T5/T6) and vice-versa.
+
+* Each level builds on the criteria from the preceding level. A L7 must also meet all the criteria for a L6.
+
+* For a given level, meeting the specified number of years of relevant experience is not strictly required. However, every year short is harder to account for concerning promotions or hiring. Years of
+relevant experience are important in establishing a track record since it takes time to assess the significance of long-term decisions. Time served in industry or academia cannot stand alone. Your
+experience should also be relevant to level criteria.
+
+* The criteria for each level are guides, not strict requirements. Excellence in one criteria may counter-balance weakness in another. It is common for individuals to spike their performance to higher levels
+either temporarily or on individual criteria.
 
 
 ## T5/L5 = Senior Eng / Technical Lead 
