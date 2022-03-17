@@ -92,6 +92,7 @@ Topic maturity models:
   * [Infrastructure as Code maturity model by Stafford](examples/infrastructure-as-code/infrastructure-as-code-maturity-model-by-stafford/index.md)
 * IT: Information Technology
   * [IT Capability Maturity Framework by the Innovation Value Institute (IVI)](examples/it/it-capability-maturity-framework-by-innovation-value-institute/index.md)
+  * [Levels of Technical Leadership by Poss](examples/it/levels-of-technical-leadership-by-poss/)
 * Management
   * [Program and Portfolio Management Maturity Model by Gartner](examples/management/program-and-portfolio-management-maturity-model-by-gartner/index.md)
   * [Project Portfolio Management Maturity Levels by Priority Systems](examples/management/project-portfolio-management-maturity-levels-by-priority-systems/index.md)
