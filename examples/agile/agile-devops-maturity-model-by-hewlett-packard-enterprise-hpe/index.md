@@ -36,7 +36,7 @@ Contents:
 
 <td>
 <p>Lean and agile are part of the organizational culture.</p>
-<p>Continuous learning and optimization of the work processess.</p>
+<p>Continuous learning and optimization of the work processes.</p>
 </td>
 
 <td>
@@ -289,7 +289,7 @@ Contents:
 
   * Lean and agile are part of the organizational culture.
 
-  * Continuous learning and optimization of the work processess.
+  * Continuous learning and optimization of the work processes.
 
 
 <h2><a name="teamwork">Teamwork</a></h2>

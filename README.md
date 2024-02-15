@@ -16,22 +16,22 @@ A maturity model is a business tool used to assess people/culture, processes/str
 See https://en.wikipedia.org/wiki/Maturity_model
 
 Contents:
-* [Maturity model levels](#maturity-model-levels)
-* [Maturity model examples](#maturity-model-examples)
-* [Maturity model process perspectives](#maturity-model-process-perspectives)
-* [Top-down vs. bottom-up](#top-down-vs-bottom-up)
-* [Modeling Maturing Levels](#modeling-maturing-levels)
-* [Rebuttals to maturity models](#rebuttals-to-maturity-models)
-* [Related assessment metrics](#related-assessment-metrics)
-* [FAQ](#faq)
-  * [Can I create a maturity model?](#can-i-create-a-maturity-model)
-  * [Who decides what goes into a maturity model?](#who-decides-what-goes-into-a-maturity-model)
-  * [Is a maturity model a snapshot in time or a future plan?](#is-a-maturity-model-a-snapshot-in-time-or-a-future-plan)
-  * [Is a maturity model descriptive or prescriptive?](#is-a-maturity-model-descriptive-or-prescriptive)
-  * [Can a maturity model evolve over time?](#can-a-maturity-model-evolve-over-time)
-  * [Does a maturity model have an end state?](#does-a-maturity-model-have-an-end-state)
-  * [Is a maturity model different than a scientific model?](#is-a-maturity-model-different-than-a-scientific-model)
-  * [Is a maturity models verifiable?](#is-a-maturity-models-verifiable)
+- [Maturity model levels](#maturity-model-levels)
+- [Maturity model examples](#maturity-model-examples)
+- [Maturity model process perspectives](#maturity-model-process-perspectives)
+- [Top-down vs. bottom-up](#top-down-vs-bottom-up)
+- [Modeling Maturing Levels](#modeling-maturing-levels)
+- [Rebuttals to maturity models](#rebuttals-to-maturity-models)
+- [Related assessment metrics](#related-assessment-metrics)
+- [FAQ](#faq)
+  - [Can I create a maturity model?](#can-i-create-a-maturity-model)
+  - [Who decides what goes into a maturity model?](#who-decides-what-goes-into-a-maturity-model)
+  - [Is a maturity model a snapshot in time or a future plan?](#is-a-maturity-model-a-snapshot-in-time-or-a-future-plan)
+  - [Is a maturity model descriptive or prescriptive?](#is-a-maturity-model-descriptive-or-prescriptive)
+  - [Can a maturity model evolve over time?](#can-a-maturity-model-evolve-over-time)
+  - [Does a maturity model have an end state?](#does-a-maturity-model-have-an-end-state)
+  - [Is a maturity model different than a scientific model?](#is-a-maturity-model-different-than-a-scientific-model)
+  - [Is a maturity models verifiable?](#is-a-maturity-models-verifiable)
 
 ## Maturity model levels
 
@@ -51,7 +51,7 @@ Maturity model levels have a range of terminology in various industries such as:
 * Level 2: Develop, Describe, Duplicate, Direct-oriented, Department-usage.
 * Level 3: Standardize, Specify, Scale, Service-oriented, Segment-usage
 * Level 4: Manage, Measure, Mainstream, Mission-oriented, Mass-usage.
-* Level 5: Orchestrate, Optimize, Ongoing, Opportunity-oriented, Organization-usage
+* Level 5: Orchestrate, Optimize, Ongoing, Opportunity-oriented, Outsize-usage
 
 
 ## Maturity model examples
