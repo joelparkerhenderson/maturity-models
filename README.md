@@ -51,7 +51,7 @@ Maturity model levels have a range of terminology in various industries such as:
 * Level 2: Develop, Describe, Duplicate, Direct-oriented, Department-usage.
 * Level 3: Standardize, Specify, Scale, Service-oriented, Segment-usage
 * Level 4: Manage, Measure, Mainstream, Mission-oriented, Mass-usage.
-* Level 5: Orchestrate, Optimize, Ongoing, Opportunity-oriented, Outsize-usage
+* Level 5: Orchestrate, Originate, Ongoing, Opportunity-oriented, Outsize-usage
 
 
 ## Maturity model examples
