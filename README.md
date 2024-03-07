@@ -84,7 +84,7 @@ Topic maturity models:
   * [Enterprise Architecture: TOGAF Maturity Model](examples/software/enterprise-architecture/togaf-maturity-model/index.md)
   * [Enterprise Architecture Maturity Model based on CMMI CM SEI](examples/software/enterprise-architecture/enterprise-architecture-maturity-model-based-on-cmmi-cm-sei/index.md)
 * EIM : Enterprise Information Management
-  * [EIM Maturity Model by Gartner](examples/eim/Gartner-EIM-Maturity-Model/index.md)
+  * [EIM Maturity Model by Gartner](examples/eim/gartner-eim-maturity-model/index.md)
 * Green Software
   * [Green Software Maturity Matrix](https://maturity-matrix.greensoftware.foundation/) 
 * IAM: Identity and Access Management
