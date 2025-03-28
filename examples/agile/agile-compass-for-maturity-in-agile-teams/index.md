@@ -14,7 +14,7 @@ Credit:
 * [Agile Compass: A Tool for Identifying Maturity in Agile Software-Development Teams
 ](http://ieeexplore.ieee.org/document/7311000/)
 * [The Agile Compass checklist](https://s3.amazonaws.com/ieeecs.cdn.csdl.public/mags/so/2015/06/extras/mso201506_AnAgile_s1.pdf)
-
+* [Agile Compass](https://agilecompass.com/)
 
 <h2><a name="practices-learning">Practices learning</a></h2>
 
