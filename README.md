@@ -62,7 +62,10 @@ General maturity models:
 
   * [U.S. N.I.H. Proficiency Scale](examples/skill/us-nih-proficiency-scale/index.md)
   * [Dreyfus model of skill acquisition](examples/skill/dreyfus-model-of-skill-acquisition/index.md)
-  
+  * [U.K. Government Digital and Data Profession Capability Framework](examples/skill/uk-government-digital-and-data-profession-capability-framework/)
+
+https://ddat-capability-framework.service.gov.uk/
+
 Topic maturity models:
 
 * Agile
