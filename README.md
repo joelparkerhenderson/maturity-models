@@ -78,7 +78,7 @@ Topic maturity models:
   * [Capability Maturity Model Integration (CMMI) for Development by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset-files/TechnicalReport/2006-005-001-14771.pdf)
   * [Capability Maturity Model Integration (CMMI) for Acquisition by Carnegie Mellon Software Engineering Institute (SEI)](http://resources.sei.cmu.edu/asset-files/TechnicalReport/2007-005-001-14897.pdf)
 * Continous Improvement
-  * [Continuous Improvement Meetings Maturity Model](continuous-improvement-meetings-maturity-model/index.md)
+  * [Continuous Improvement Meetings Maturity Model](examples/continuous-improvement/continuous-improvement-meetings-maturity-model/index.md)
 * Continuous Delivery
   * [Continuous Delivery Maturity Model by Xebia](examples/continuous-delivery/continuous-delivery-maturity-model-by-xebia/index.md)
 * Data Center
