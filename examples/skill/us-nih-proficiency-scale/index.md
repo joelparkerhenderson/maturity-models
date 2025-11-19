@@ -57,7 +57,8 @@ Proficiency Scale Details:
 
 * 5 - Expert (recognized authority)
 
-  * You are known as an expert in this area.* You can provide guidance, troubleshoot and answer questions related to this area of expertise and the field where the skill is used.
+  * You are known as an expert in this area.
+  * You can provide guidance, troubleshoot and answer questions related to this area of expertise and the field where the skill is used.
   * Focus is strategic.
   * You have demonstrated consistent excellence in applying this competency across multiple projects and/or organizations.
   * You are considered the “go to” person in this area within NIH and/or outside organizations.
